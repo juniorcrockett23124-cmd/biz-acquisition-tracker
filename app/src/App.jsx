@@ -25,6 +25,7 @@ function BulletList({ items }) {
 
 function CandidateCard({ candidate }) {
   const details = candidate.underwriting_details || {};
+  const sbaLoanView = candidate.sba_loan_view || {};
 
   return (
     <article className="card">
@@ -104,6 +105,44 @@ function CandidateCard({ candidate }) {
           </div>
 
           <div className="detail-section">
+            <span className="label">SBA Loan View</span>
+            <div className="details-grid">
+              <div>
+                <span className="label">Purchase Price Est.</span>
+                <span>{sbaLoanView.purchase_price_estimate || "-"}</span>
+              </div>
+              <div>
+                <span className="label">Equity Down</span>
+                <span>{sbaLoanView.equity_injection || "-"}</span>
+              </div>
+              <div>
+                <span className="label">Loan Amount</span>
+                <span>{sbaLoanView.loan_amount || "-"}</span>
+              </div>
+              <div>
+                <span className="label">Rate Assumption</span>
+                <span>{sbaLoanView.interest_rate || "-"}</span>
+              </div>
+              <div>
+                <span className="label">Monthly Payment</span>
+                <span>{sbaLoanView.monthly_payment || "-"}</span>
+              </div>
+              <div>
+                <span className="label">Annual Debt Service</span>
+                <span>{sbaLoanView.annual_debt_service || "-"}</span>
+              </div>
+              <div>
+                <span className="label">Cash Flow Coverage</span>
+                <span>{sbaLoanView.cash_flow_coverage || "-"}</span>
+              </div>
+              <div>
+                <span className="label">Debt View</span>
+                <span>{sbaLoanView.feasibility || "-"}</span>
+              </div>
+            </div>
+          </div>
+
+          <div className="detail-section">
             <span className="label">Missing Facts</span>
             <BulletList items={details.missing_facts} />
           </div>
@@ -156,6 +195,9 @@ export default function App() {
         <h1>Business prospects worth buying</h1>
         <p className="hero-copy">
           Daily sourced, underwritten, researched, and ranked against the active buy box.
+        </p>
+        <p className="hero-note">
+          SBA loan view uses a conservative estimate: 10% equity down, 10-year term, and current SBA variable-rate ceilings.
         </p>
         <input
           className="search"

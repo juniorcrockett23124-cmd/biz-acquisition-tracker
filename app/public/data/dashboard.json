@@ -1,5 +1,13 @@
 {
-  "generatedAt": "2026-06-19T15:25:20.605988Z",
+  "generatedAt": "2026-06-19T15:30:05.833582Z",
+  "loanAssumptions": {
+    "program": "Illustrative SBA 7(a) acquisition scenario",
+    "primeRate": "6.75%",
+    "equityInjection": "10%",
+    "termYears": 10,
+    "rateMethod": "Uses SBA variable-rate ceilings by loan size as a conservative estimate.",
+    "asOf": "2026-06-19"
+  },
   "summary": {
     "total": 14,
     "qualified": 6,
@@ -68,6 +76,17 @@
           "Underwriting score: 88/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$495,000",
+        "equity_injection": "$49,500",
+        "loan_amount": "$445,500",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$5,826",
+        "annual_debt_service": "$69,910",
+        "cash_flow_coverage": "4.29x",
+        "feasibility": "looks serviceable"
       }
     },
     {
@@ -127,6 +146,17 @@
           "Underwriting score: 85/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$248,000",
+        "equity_injection": "$24,800",
+        "loan_amount": "$223,200",
+        "interest_rate": "12.75%",
+        "term_years": 10,
+        "monthly_payment": "$3,300",
+        "annual_debt_service": "$39,597",
+        "cash_flow_coverage": "3.79x",
+        "feasibility": "looks serviceable"
       }
     },
     {
@@ -186,6 +216,17 @@
           "Underwriting score: 83/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$495,000",
+        "equity_injection": "$49,500",
+        "loan_amount": "$445,500",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$5,826",
+        "annual_debt_service": "$69,910",
+        "cash_flow_coverage": "4.29x",
+        "feasibility": "looks serviceable"
       }
     },
     {
@@ -245,6 +286,17 @@
           "Underwriting score: 82/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$248,000",
+        "equity_injection": "$24,800",
+        "loan_amount": "$223,200",
+        "interest_rate": "12.75%",
+        "term_years": 10,
+        "monthly_payment": "$3,300",
+        "annual_debt_service": "$39,597",
+        "cash_flow_coverage": "3.79x",
+        "feasibility": "looks serviceable"
       }
     },
     {
@@ -304,6 +356,17 @@
           "Underwriting score: 84/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$330,000",
+        "equity_injection": "$33,000",
+        "loan_amount": "$297,000",
+        "interest_rate": "11.25%",
+        "term_years": 10,
+        "monthly_payment": "$4,133",
+        "annual_debt_service": "$49,600",
+        "cash_flow_coverage": "4.03x",
+        "feasibility": "looks serviceable"
       }
     },
     {
@@ -363,6 +426,17 @@
           "Underwriting score: 84/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$495,000",
+        "equity_injection": "$49,500",
+        "loan_amount": "$445,500",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$5,826",
+        "annual_debt_service": "$69,910",
+        "cash_flow_coverage": "4.29x",
+        "feasibility": "looks serviceable"
       }
     },
     {
@@ -422,6 +496,17 @@
           "Underwriting score: 70/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$150,000",
+        "equity_injection": "$15,000",
+        "loan_amount": "$135,000",
+        "interest_rate": "12.75%",
+        "term_years": 10,
+        "monthly_payment": "$1,996",
+        "annual_debt_service": "$23,950",
+        "cash_flow_coverage": "6.26x",
+        "feasibility": "looks serviceable"
       }
     },
     {
@@ -481,6 +566,17 @@
           "Underwriting score: 71/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$248,000",
+        "equity_injection": "$24,800",
+        "loan_amount": "$223,200",
+        "interest_rate": "12.75%",
+        "term_years": 10,
+        "monthly_payment": "$3,300",
+        "annual_debt_service": "$39,597",
+        "cash_flow_coverage": "3.79x",
+        "feasibility": "looks serviceable"
       }
     },
     {
@@ -540,6 +636,17 @@
           "Underwriting score: 74/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$263,000",
+        "equity_injection": "$26,300",
+        "loan_amount": "$236,700",
+        "interest_rate": "12.75%",
+        "term_years": 10,
+        "monthly_payment": "$3,499",
+        "annual_debt_service": "$41,992",
+        "cash_flow_coverage": "3.57x",
+        "feasibility": "looks serviceable"
       }
     },
     {
@@ -599,6 +706,17 @@
           "Underwriting score: 62/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$150,000",
+        "equity_injection": "$15,000",
+        "loan_amount": "$135,000",
+        "interest_rate": "12.75%",
+        "term_years": 10,
+        "monthly_payment": "$1,996",
+        "annual_debt_service": "$23,950",
+        "cash_flow_coverage": "6.26x",
+        "feasibility": "looks serviceable"
       }
     },
     {
@@ -658,6 +776,17 @@
           "Underwriting score: 67/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$350,000",
+        "equity_injection": "$35,000",
+        "loan_amount": "$315,000",
+        "interest_rate": "11.25%",
+        "term_years": 10,
+        "monthly_payment": "$4,384",
+        "annual_debt_service": "$52,606",
+        "cash_flow_coverage": "3.80x",
+        "feasibility": "looks serviceable"
       }
     },
     {
@@ -717,6 +846,17 @@
           "Underwriting score: 60/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$150,000",
+        "equity_injection": "$15,000",
+        "loan_amount": "$135,000",
+        "interest_rate": "12.75%",
+        "term_years": 10,
+        "monthly_payment": "$1,996",
+        "annual_debt_service": "$23,950",
+        "cash_flow_coverage": "6.26x",
+        "feasibility": "looks serviceable"
       }
     },
     {
@@ -776,6 +916,17 @@
           "Underwriting score: 73/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$495,000",
+        "equity_injection": "$49,500",
+        "loan_amount": "$445,500",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$5,826",
+        "annual_debt_service": "$69,910",
+        "cash_flow_coverage": "4.29x",
+        "feasibility": "looks serviceable"
       }
     },
     {
@@ -835,6 +986,17 @@
           "Underwriting score: 76/100",
           "Reviewed: 2026-06-19"
         ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$248,000",
+        "equity_injection": "$24,800",
+        "loan_amount": "$223,200",
+        "interest_rate": "12.75%",
+        "term_years": 10,
+        "monthly_payment": "$3,300",
+        "annual_debt_service": "$39,597",
+        "cash_flow_coverage": "3.79x",
+        "feasibility": "looks serviceable"
       }
     }
   ]

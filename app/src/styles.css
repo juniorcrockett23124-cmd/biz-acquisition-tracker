@@ -45,6 +45,13 @@ body {
   margin: 14px 0 18px;
 }
 
+.hero-note {
+  max-width: 42rem;
+  color: #6b5b3d;
+  margin: 0 0 18px;
+  font-size: 14px;
+}
+
 .search {
   width: 100%;
   border: 1px solid rgba(17, 17, 17, 0.12);
