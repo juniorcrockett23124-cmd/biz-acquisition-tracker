@@ -245,6 +245,12 @@ body {
   text-decoration: none;
 }
 
+.inline-link {
+  color: #0f5b4a;
+  font-weight: 600;
+  text-decoration: none;
+}
+
 @media (min-width: 700px) {
   .metrics {
     grid-template-columns: repeat(5, minmax(0, 1fr));

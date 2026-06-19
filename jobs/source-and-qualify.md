@@ -26,6 +26,10 @@ Daily find businesses that fit the buy box and add only credible prospects to th
 5. If a prospect clearly fits, move status to `qualified`.
 6. Write a dated summary file in `data/daily-sourcing/YYYY-MM-DD.md`.
 7. Do not fabricate owner age or retirement status. Mark it `Unverified` unless explicitly supported.
+8. Capture the actual source of the prospect separately from the company website:
+   - `listing_source_name`: marketplace, broker, or source site name
+   - `listing_source_url`: exact listing or source page URL
+   - if no live for-sale listing exists, explicitly mark the prospect as sourced from company website / targeted web search
 
 ## Output
 

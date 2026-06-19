@@ -59,7 +59,7 @@ function CandidateCard({ candidate }) {
         </div>
         <div>
           <span className="label">Prospect Source</span>
-          <span>{candidate.source_query || "default"}</span>
+          <span>{candidate.listing_source_name || "not captured"}</span>
         </div>
         <div>
           <span className="label">Retiring Owner</span>
@@ -150,12 +150,32 @@ function CandidateCard({ candidate }) {
             <span className="label">Source</span>
             <div className="details-grid">
               <div>
+                <span className="label">Listing Source</span>
+                <span>{candidate.listing_source_name || "not captured"}</span>
+              </div>
+              <div>
                 <span className="label">Discovery Query</span>
                 <span>{candidate.source_query || "default"}</span>
               </div>
               <div>
+                <span className="label">Listing URL</span>
+                {candidate.listing_source_url ? (
+                  <a className="inline-link" href={candidate.listing_source_url} target="_blank" rel="noreferrer">
+                    Open listing source
+                  </a>
+                ) : (
+                  <span>Not captured in initial run</span>
+                )}
+              </div>
+              <div>
                 <span className="label">Company Site</span>
-                <span>{candidate.website ? "available" : "not captured"}</span>
+                {candidate.website ? (
+                  <a className="inline-link" href={candidate.website} target="_blank" rel="noreferrer">
+                    Open company site
+                  </a>
+                ) : (
+                  <span>Not captured</span>
+                )}
               </div>
             </div>
           </div>
