@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-19",
+  "summary": {
+    "goal": "Acquire a cash-flowing small business now",
+    "seller_financing": "preferred",
+    "geography": "open",
+    "industries": "open"
+  },
+  "required": {
+    "operating_history_years_min": 5,
+    "cash_flow_min_usd": 150000,
+    "owner_signal": [
+      "likely retiring",
+      "real revenue"
+    ]
+  },
+  "preferred": {
+    "cash_flow_max_usd": 500000,
+    "recurring_revenue": true,
+    "team_in_place": true,
+    "owner_age_60_plus": true,
+    "seller_financing": true
+  },
+  "weights": {
+    "recurring_revenue_quality": 25,
+    "team_strength": 20,
+    "owner_independence": 15,
+    "cash_flow_quality": 15,
+    "retirement_signal": 10,
+    "financing_attractiveness": 10,
+    "risk_penalty": -15
+  },
+  "deal_killers": [
+    "owner is the whole business",
+    "cash flow appears fake or heavily adjusted",
+    "no real team in place",
+    "project revenue disguised as recurring",
+    "seller is not actually retiring or otherwise motivated",
+    "severe customer concentration",
+    "major unresolved legal or compliance issues"
+  ]
+}

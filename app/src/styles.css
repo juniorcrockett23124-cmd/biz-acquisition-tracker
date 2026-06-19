@@ -1,0 +1,184 @@
+:root {
+  font-family: "SF Pro Display", "Segoe UI", sans-serif;
+  color: #111111;
+  background:
+    radial-gradient(circle at top left, rgba(255, 214, 102, 0.45), transparent 28%),
+    linear-gradient(180deg, #f7f4eb 0%, #efe7d5 100%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.page {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 24px 16px 64px;
+}
+
+.hero {
+  padding: 20px 0 10px;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 12px;
+  color: #6b5b3d;
+  margin: 0 0 8px;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(34px, 7vw, 58px);
+  line-height: 0.95;
+  max-width: 10ch;
+}
+
+.hero-copy {
+  max-width: 42rem;
+  color: #4e4a43;
+  margin: 14px 0 18px;
+}
+
+.search {
+  width: 100%;
+  border: 1px solid rgba(17, 17, 17, 0.12);
+  border-radius: 16px;
+  padding: 14px 16px;
+  font-size: 16px;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin: 24px 0;
+}
+
+.metric,
+.card {
+  background: rgba(255, 255, 255, 0.78);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(17, 17, 17, 0.08);
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(71, 53, 24, 0.08);
+}
+
+.metric {
+  padding: 16px;
+}
+
+.metric-value {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.metric-label {
+  font-size: 12px;
+  color: #5d5a52;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.list {
+  display: grid;
+  gap: 14px;
+}
+
+.card {
+  padding: 18px;
+}
+
+.card-top,
+.footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.card h3 {
+  margin: 0;
+  font-size: 22px;
+}
+
+.muted,
+.notes,
+.footer {
+  color: #57534c;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin: 16px 0;
+}
+
+.grid div {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #6b7280;
+}
+
+.pill {
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+}
+
+.pill-high {
+  background: #123524;
+  color: #f0fdf4;
+}
+
+.pill-medium {
+  background: #8a5a12;
+  color: #fff8eb;
+}
+
+.pill-low {
+  background: #5f2120;
+  color: #fff1f2;
+}
+
+.notes {
+  margin: 0 0 16px;
+}
+
+.footer {
+  font-size: 13px;
+  margin-bottom: 12px;
+}
+
+.site-link {
+  color: #0f5b4a;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+@media (min-width: 700px) {
+  .metrics {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
