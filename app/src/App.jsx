@@ -11,7 +11,21 @@ function Metric({ label, value }) {
   );
 }
 
+function BulletList({ items }) {
+  if (!items?.length) return null;
+
+  return (
+    <ul className="detail-list">
+      {items.map((item) => (
+        <li key={item}>{item}</li>
+      ))}
+    </ul>
+  );
+}
+
 function CandidateCard({ candidate }) {
+  const details = candidate.underwriting_details || {};
+
   return (
     <article className="card">
       <div className="card-top">
@@ -49,9 +63,57 @@ function CandidateCard({ candidate }) {
       </div>
       <p className="notes">{candidate.notes}</p>
       <div className="footer">
-        <span>Underwriting: {candidate.underwriting_status || "pending"}</span>
-        <span>Research: {candidate.research_status || "pending"}</span>
+        <span>Underwriting: {candidate.underwriting_status || "pending"} ({candidate.underwriting_score || "-"})</span>
+        <span>Research: {candidate.research_status || "pending"} ({candidate.research_score || "-"})</span>
       </div>
+      <details className="details-panel">
+        <summary>Underwriting details</summary>
+        <div className="details-body">
+          <div className="details-grid">
+            <div>
+              <span className="label">Bestimate</span>
+              <span>{money(candidate.bestimate)}</span>
+            </div>
+            <div>
+              <span className="label">Recurring Revenue</span>
+              <span>{candidate.recurring_revenue_signal || "-"}</span>
+            </div>
+            <div>
+              <span className="label">Team Signal</span>
+              <span>{candidate.team_signal || "-"}</span>
+            </div>
+          </div>
+
+          {details.why_it_fits ? (
+            <div className="detail-section">
+              <span className="label">Why It Fits</span>
+              <p>{details.why_it_fits}</p>
+            </div>
+          ) : null}
+
+          {details.key_risks ? (
+            <div className="detail-section">
+              <span className="label">Key Risks</span>
+              <p>{details.key_risks}</p>
+            </div>
+          ) : null}
+
+          <div className="detail-section">
+            <span className="label">Financing View</span>
+            <BulletList items={details.financing_view} />
+          </div>
+
+          <div className="detail-section">
+            <span className="label">Missing Facts</span>
+            <BulletList items={details.missing_facts} />
+          </div>
+
+          <div className="detail-section">
+            <span className="label">Preliminary Verdict</span>
+            <BulletList items={details.preliminary_verdict} />
+          </div>
+        </div>
+      </details>
       {candidate.website ? (
         <a className="site-link" href={candidate.website} target="_blank" rel="noreferrer">
           Open site
