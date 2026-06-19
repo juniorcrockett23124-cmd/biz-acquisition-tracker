@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T15:53:01.419395Z",
+  "generatedAt": "2026-06-19T15:57:26.987436Z",
   "loanAssumptions": {
     "program": "Illustrative SBA 7(a) acquisition scenario",
     "primeRate": "6.75%",
@@ -9,289 +9,141 @@
     "asOf": "2026-06-19"
   },
   "summary": {
-    "total": 14,
-    "confirmedForSale": 0,
-    "qualified": 6,
-    "screening": 8,
+    "total": 5,
+    "confirmedForSale": 5,
+    "qualified": 5,
+    "screening": 0,
     "contacted": 0,
     "diligence": 0,
-    "highPriority": 6,
+    "highPriority": 5,
     "underwritingPending": 0,
-    "researchPending": 0
+    "researchPending": 5
   },
   "candidates": [
     {
-      "name": "J Chester & Associates CPA Firm",
+      "name": "CPA Practice - Hernando County Florida - $365K Revenue",
       "industry": "Service Businesses",
-      "location": "Dallas, TX",
-      "years_in_business": "43",
-      "revenue": "$1.0M",
-      "cash_flow": "$300K",
-      "bestimate": "$495K",
-      "website": "https://www.jchestercpa.com/",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
-      "source_query": "CPA",
-      "recurring_revenue_signal": "Strong",
-      "team_signal": "Strong",
-      "retiring_owner_status": "Unverified",
-      "status": "qualified",
-      "priority": "high",
-      "underwriting_status": "complete",
-      "underwriting_score": "88",
-      "research_status": "complete",
-      "research_score": "86",
-      "last_reviewed": "2026-06-19",
-      "notes": "Public team page shows multiple staff; tax, accounting, payroll mix.",
-      "underwriting_details": {
-        "overview": [
-          "Industry: Service Businesses",
-          "Location: Dallas, TX",
-          "Years in business: 43",
-          "Revenue: $1.0M",
-          "Cash flow: $300K",
-          "Current status: qualified",
-          "Priority: high"
-        ],
-        "why_it_fits": "High-fit accounting target with recurring client relationships, visible staff, and enough cash flow to matter.",
-        "revenue_and_cash_flow_view": [
-          "Recurring revenue signal: Strong",
-          "Team signal: Strong",
-          "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
-        ],
-        "key_risks": "Tax practice cyclicality, partner dependence, and client concentration need validation.",
-        "financing_view": [
-          "Bestimate: $495K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
-        ],
-        "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
-        ],
-        "preliminary_verdict": [
-          "Verdict: pursue",
-          "Underwriting score: 88/100",
-          "Reviewed: 2026-06-19"
-        ]
-      },
-      "sba_loan_view": {
-        "purchase_price_estimate": "$495,000",
-        "equity_injection": "$49,500",
-        "loan_amount": "$445,500",
-        "interest_rate": "9.75%",
-        "term_years": 10,
-        "monthly_payment": "$5,826",
-        "annual_debt_service": "$69,910",
-        "cash_flow_coverage": "4.29x",
-        "feasibility": "looks serviceable"
-      },
-      "is_confirmed_for_sale": false
-    },
-    {
-      "name": "Benchmark Bookkeeping & Payroll",
-      "industry": "Service Businesses",
-      "location": "Bel Air, MD",
-      "years_in_business": "40",
-      "revenue": "$500K",
-      "cash_flow": "$150K",
-      "bestimate": "$248K",
-      "website": "https://www.getbenchmark.com/",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
-      "source_query": "Bookkeeping",
-      "recurring_revenue_signal": "Strong",
-      "team_signal": "Strong",
-      "retiring_owner_status": "Unverified",
-      "status": "qualified",
-      "priority": "high",
-      "underwriting_status": "complete",
-      "underwriting_score": "85",
-      "research_status": "complete",
-      "research_score": "83",
-      "last_reviewed": "2026-06-19",
-      "notes": "Founded in 1986; bookkeeping and payroll are recurring service lines.",
-      "underwriting_details": {
-        "overview": [
-          "Industry: Service Businesses",
-          "Location: Bel Air, MD",
-          "Years in business: 40",
-          "Revenue: $500K",
-          "Cash flow: $150K",
-          "Current status: qualified",
-          "Priority: high"
-        ],
-        "why_it_fits": "Very clean boring-business fit: payroll and bookkeeping revenue, long history, and likely repeat clients.",
-        "revenue_and_cash_flow_view": [
-          "Recurring revenue signal: Strong",
-          "Team signal: Strong",
-          "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
-        ],
-        "key_risks": "Small-firm talent retention and founder dependency are the main diligence risks.",
-        "financing_view": [
-          "Bestimate: $248K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
-        ],
-        "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
-        ],
-        "preliminary_verdict": [
-          "Verdict: pursue",
-          "Underwriting score: 85/100",
-          "Reviewed: 2026-06-19"
-        ]
-      },
-      "sba_loan_view": {
-        "purchase_price_estimate": "$248,000",
-        "equity_injection": "$24,800",
-        "loan_amount": "$223,200",
-        "interest_rate": "12.75%",
-        "term_years": 10,
-        "monthly_payment": "$3,300",
-        "annual_debt_service": "$39,597",
-        "cash_flow_coverage": "3.79x",
-        "feasibility": "looks serviceable"
-      },
-      "is_confirmed_for_sale": false
-    },
-    {
-      "name": "Downtown Managed Services",
-      "industry": "Service Businesses",
-      "location": "Fort Lauderdale, FL",
+      "location": "Hernando County, FL",
       "years_in_business": "28",
-      "revenue": "$1.00M",
-      "cash_flow": "$300K",
-      "bestimate": "$495K",
-      "website": "https://downtownmanagedservices.com/",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
-      "source_query": "managed services",
+      "revenue": "$365K",
+      "cash_flow": "$234K",
+      "bestimate": "$365K",
+      "website": "",
+      "listing_source_name": "BizBuySell",
+      "listing_source_url": "https://www.bizbuysell.com/business-opportunity/cpa-practice-hernando-county-florida-365k-revenue/2507591/",
+      "source_query": "CPA practice",
       "recurring_revenue_signal": "Strong",
       "team_signal": "Moderate",
       "retiring_owner_status": "Unverified",
       "status": "qualified",
       "priority": "high",
       "underwriting_status": "complete",
-      "underwriting_score": "83",
-      "research_status": "complete",
-      "research_score": "80",
+      "underwriting_score": "84",
+      "research_status": "pending",
+      "research_score": "",
       "last_reviewed": "2026-06-19",
-      "notes": "Recurring MSP economics look attractive; verify org depth and owner involvement.",
+      "notes": "Tax, bookkeeping, and payroll mix. Listing notes a solid bookkeeper expected to continue.",
       "underwriting_details": {
         "overview": [
           "Industry: Service Businesses",
-          "Location: Fort Lauderdale, FL",
+          "Location: Hernando County, FL",
           "Years in business: 28",
-          "Revenue: $1.00M",
-          "Cash flow: $300K",
+          "Revenue: $365K",
+          "Cash flow: $234K",
           "Current status: qualified",
           "Priority: high"
         ],
-        "why_it_fits": "Recurring managed services plus 28+ years makes this one of the better tech-enabled service targets.",
+        "why_it_fits": "Recurring tax, bookkeeping, and payroll revenue with long operating history and an apparent transition plan around a retained bookkeeper.",
         "revenue_and_cash_flow_view": [
           "Recurring revenue signal: Strong",
           "Team signal: Moderate",
           "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
+          "Initial take: strong fit on recurring service lines and cash flow level; price is reasonable relative to cash flow."
         ],
-        "key_risks": "Strong recurring profile, but the true second layer of management is still unverified.",
+        "key_risks": "Seasonality, client concentration, and how much production still sits directly with the owner need validation.",
         "financing_view": [
-          "Bestimate: $495K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
+          "Bestimate: $365K",
+          "Seller financing preference: unknown",
+          "Preliminary view: likely SBA-serviceable if client retention and transferability hold up."
         ],
         "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
+          "Is the seller retiring now, or just testing the market?",
+          "How many clients are payroll/monthly bookkeeping versus annual tax-only?",
+          "What percentage of revenue is tied to the top ten accounts?",
+          "What staff besides the bookkeeper support delivery?",
+          "Is there any seller carry available?"
         ],
         "preliminary_verdict": [
           "Verdict: pursue",
-          "Underwriting score: 83/100",
+          "Underwriting score: 84/100",
           "Reviewed: 2026-06-19"
         ]
       },
       "sba_loan_view": {
-        "purchase_price_estimate": "$495,000",
-        "equity_injection": "$49,500",
-        "loan_amount": "$445,500",
-        "interest_rate": "9.75%",
+        "purchase_price_estimate": "$365,000",
+        "equity_injection": "$36,500",
+        "loan_amount": "$328,500",
+        "interest_rate": "11.25%",
         "term_years": 10,
-        "monthly_payment": "$5,826",
-        "annual_debt_service": "$69,910",
-        "cash_flow_coverage": "4.29x",
+        "monthly_payment": "$4,572",
+        "annual_debt_service": "$54,860",
+        "cash_flow_coverage": "4.27x",
         "feasibility": "looks serviceable"
       },
-      "is_confirmed_for_sale": false
+      "is_confirmed_for_sale": true
     },
     {
-      "name": "Arrow Bookkeeping",
+      "name": "High Margin 24-Year Managed IT Services Provider",
       "industry": "Service Businesses",
-      "location": "Silver Spring, MD",
-      "years_in_business": "27",
-      "revenue": "$500K",
-      "cash_flow": "$150K",
-      "bestimate": "$248K",
-      "website": "https://arrowbookkeeping.com/",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
-      "source_query": "Bookkeeping",
+      "location": "Davis County, UT",
+      "years_in_business": "24",
+      "revenue": "$489K",
+      "cash_flow": "$288K",
+      "bestimate": "$1.5M",
+      "website": "",
+      "listing_source_name": "BizBuySell",
+      "listing_source_url": "https://www.bizbuysell.com/business-opportunity/high-margin-24-year-managed-it-services-provider/2483775/",
+      "source_query": "managed IT",
       "recurring_revenue_signal": "Strong",
-      "team_signal": "Strong",
+      "team_signal": "Unknown",
       "retiring_owner_status": "Unverified",
       "status": "qualified",
       "priority": "high",
       "underwriting_status": "complete",
       "underwriting_score": "82",
-      "research_status": "complete",
-      "research_score": "80",
+      "research_status": "pending",
+      "research_score": "",
       "last_reviewed": "2026-06-19",
-      "notes": "Founder and team page visible; outsourced bookkeeping suggests recurring clients.",
+      "notes": "24-year operating history and solid cash flow. Recurring managed services profile.",
       "underwriting_details": {
         "overview": [
           "Industry: Service Businesses",
-          "Location: Silver Spring, MD",
-          "Years in business: 27",
-          "Revenue: $500K",
-          "Cash flow: $150K",
+          "Location: Davis County, UT",
+          "Years in business: 24",
+          "Revenue: $489K",
+          "Cash flow: $288K",
           "Current status: qualified",
           "Priority: high"
         ],
-        "why_it_fits": "Good recurring back-office candidate with clear small-business service positioning and likely monthly clients.",
+        "why_it_fits": "Long operating history, strong disclosed cash flow, and recurring managed services make this one of the better listing-backed technical service targets.",
         "revenue_and_cash_flow_view": [
           "Recurring revenue signal: Strong",
-          "Team signal: Strong",
+          "Team signal: Unknown",
           "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
+          "Initial take: cash flow is attractive, but the asking price requires diligence on contract durability and owner dependence."
         ],
-        "key_risks": "Need to verify management depth beyond founder-facing marketing and check customer concentration.",
+        "key_risks": "Need clarity on whether this is owner-heavy despite the strong margins, and whether the customer base is concentrated.",
         "financing_view": [
-          "Bestimate: $248K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
+          "Bestimate: $1.5M",
+          "Seller financing preference: unknown",
+          "Preliminary view: good business quality on paper, but SBA leverage may be tight at this price without seller carry."
         ],
         "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
+          "Exact employee and contractor mix",
+          "Contract tenure and churn",
+          "Top-customer concentration",
+          "Owner role in sales and technical delivery",
+          "Seller carry and transition support"
         ],
         "preliminary_verdict": [
           "Verdict: pursue",
@@ -300,29 +152,101 @@
         ]
       },
       "sba_loan_view": {
-        "purchase_price_estimate": "$248,000",
-        "equity_injection": "$24,800",
-        "loan_amount": "$223,200",
-        "interest_rate": "12.75%",
+        "purchase_price_estimate": "$1,500,000",
+        "equity_injection": "$150,000",
+        "loan_amount": "$1,350,000",
+        "interest_rate": "9.75%",
         "term_years": 10,
-        "monthly_payment": "$3,300",
-        "annual_debt_service": "$39,597",
-        "cash_flow_coverage": "3.79x",
+        "monthly_payment": "$17,654",
+        "annual_debt_service": "$211,848",
+        "cash_flow_coverage": "1.36x",
         "feasibility": "looks serviceable"
       },
-      "is_confirmed_for_sale": false
+      "is_confirmed_for_sale": true
     },
     {
-      "name": "Network Elites",
+      "name": "Fairfax County Full Service CPA & Bookkeeping",
       "industry": "Service Businesses",
-      "location": "Carrollton, TX",
-      "years_in_business": "24",
-      "revenue": "$5.00M",
+      "location": "Fairfax County, VA",
+      "years_in_business": "18",
+      "revenue": "$815K",
+      "cash_flow": "$264K",
+      "bestimate": "$850K",
+      "website": "",
+      "listing_source_name": "BusinessesForSale",
+      "listing_source_url": "https://us.businessesforsale.com/us/search/businesses-for-sale-in-fairfax-county",
+      "source_query": "Fairfax CPA",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Moderate",
+      "retiring_owner_status": "Unverified",
+      "status": "qualified",
+      "priority": "high",
+      "underwriting_status": "complete",
+      "underwriting_score": "83",
+      "research_status": "pending",
+      "research_score": "",
+      "last_reviewed": "2026-06-19",
+      "notes": "Founded in 2008. Full-service CPA firm with accounting, financial statements, tax planning, and bookkeeping.",
+      "underwriting_details": {
+        "overview": [
+          "Industry: Service Businesses",
+          "Location: Fairfax County, VA",
+          "Years in business: 18",
+          "Revenue: $815K",
+          "Cash flow: $264K",
+          "Current status: qualified",
+          "Priority: high"
+        ],
+        "why_it_fits": "Full-service CPA and bookkeeping mix with meaningful cash flow, long history, and a service bundle that tends to support recurring relationships.",
+        "revenue_and_cash_flow_view": [
+          "Recurring revenue signal: Strong",
+          "Team signal: Moderate",
+          "Seller retirement signal: Unverified",
+          "Initial take: attractive economics, but valuation is richer than the smaller practice listings."
+        ],
+        "key_risks": "Need to validate staffing depth, client concentration, and whether the asking price still makes sense after transition and retention risk.",
+        "financing_view": [
+          "Bestimate: $850K",
+          "Seller financing preference: unknown",
+          "Preliminary view: likely financeable, but leverage will be heavier and diligence must support the higher price."
+        ],
+        "missing_facts": [
+          "Exact staff count and tenure",
+          "Mix of bookkeeping, tax, and higher-value advisory work",
+          "Percentage of recurring monthly billings",
+          "Historical client retention",
+          "Seller transition terms and willingness to carry paper"
+        ],
+        "preliminary_verdict": [
+          "Verdict: pursue",
+          "Underwriting score: 83/100",
+          "Reviewed: 2026-06-19"
+        ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$850,000",
+        "equity_injection": "$85,000",
+        "loan_amount": "$765,000",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$10,004",
+        "annual_debt_service": "$120,047",
+        "cash_flow_coverage": "2.20x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "Established Managed IT Services Provider with Recurring Revenue",
+      "industry": "Service Businesses",
+      "location": "Rapides County, LA",
+      "years_in_business": "13",
+      "revenue": "$700K",
       "cash_flow": "$200K",
-      "bestimate": "$330K",
-      "website": "https://networkelites.com/",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
+      "bestimate": "$1.6M",
+      "website": "",
+      "listing_source_name": "BizBuySell",
+      "listing_source_url": "https://www.bizbuysell.com/business-opportunity/established-managed-it-services-provider-with-recurring-revenue/2501587/",
       "source_query": "managed IT",
       "recurring_revenue_signal": "Strong",
       "team_signal": "Moderate",
@@ -330,717 +254,131 @@
       "status": "qualified",
       "priority": "high",
       "underwriting_status": "complete",
-      "underwriting_score": "84",
-      "research_status": "complete",
-      "research_score": "81",
+      "underwriting_score": "79",
+      "research_status": "pending",
+      "research_score": "",
       "last_reviewed": "2026-06-19",
-      "notes": "Managed IT support profile with long operating history and plausible recurring contracts.",
+      "notes": "Recurring managed services provider with 3 contractors and documented operations.",
       "underwriting_details": {
         "overview": [
           "Industry: Service Businesses",
-          "Location: Carrollton, TX",
-          "Years in business: 24",
-          "Revenue: $5.00M",
+          "Location: Rapides County, LA",
+          "Years in business: 13",
+          "Revenue: $700K",
           "Cash flow: $200K",
           "Current status: qualified",
           "Priority: high"
         ],
-        "why_it_fits": "Attractive managed IT candidate with a longer runway and larger revenue base than most current targets.",
+        "why_it_fits": "Managed IT with explicit recurring revenue is a strong structural fit and this listing includes some operator depth via contractors.",
         "revenue_and_cash_flow_view": [
           "Recurring revenue signal: Strong",
           "Team signal: Moderate",
           "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
+          "Initial take: attractive business model, but price is high relative to current cash flow."
         ],
-        "key_risks": "Higher revenue base is attractive, but quality of contracts and owner role need confirmation.",
+        "key_risks": "Valuation appears full, contractor reliance needs validation, and contract stickiness has to be proven.",
         "financing_view": [
-          "Bestimate: $330K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
+          "Bestimate: $1.6M",
+          "Seller financing preference: unknown",
+          "Preliminary view: may be financeable, but likely stretched on SBA debt service unless there is sizable seller carry or stronger normalized cash flow."
         ],
         "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
+          "What percentage of revenue is on contract versus project work?",
+          "Are the contractors stable and transferable?",
+          "What is churn over the last 24 months?",
+          "Is there upside from add-on services not reflected in current cash flow?",
+          "Will the seller provide transition support or seller paper?"
         ],
         "preliminary_verdict": [
-          "Verdict: pursue",
-          "Underwriting score: 84/100",
+          "Verdict: watch",
+          "Underwriting score: 79/100",
           "Reviewed: 2026-06-19"
         ]
       },
       "sba_loan_view": {
-        "purchase_price_estimate": "$330,000",
-        "equity_injection": "$33,000",
-        "loan_amount": "$297,000",
-        "interest_rate": "11.25%",
-        "term_years": 10,
-        "monthly_payment": "$4,133",
-        "annual_debt_service": "$49,600",
-        "cash_flow_coverage": "4.03x",
-        "feasibility": "looks serviceable"
-      },
-      "is_confirmed_for_sale": false
-    },
-    {
-      "name": "Corptek Solutions",
-      "industry": "Service Businesses",
-      "location": "Mansfield, TX",
-      "years_in_business": "23",
-      "revenue": "$1.0M",
-      "cash_flow": "$300K",
-      "bestimate": "$495K",
-      "website": "https://corptek.net/",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
-      "source_query": "IT services",
-      "recurring_revenue_signal": "Strong",
-      "team_signal": "Strong",
-      "retiring_owner_status": "Unverified",
-      "status": "qualified",
-      "priority": "high",
-      "underwriting_status": "complete",
-      "underwriting_score": "84",
-      "research_status": "complete",
-      "research_score": "82",
-      "last_reviewed": "2026-06-19",
-      "notes": "Managed IT / MSP profile with local team and long operating history.",
-      "underwriting_details": {
-        "overview": [
-          "Industry: Service Businesses",
-          "Location: Mansfield, TX",
-          "Years in business: 23",
-          "Revenue: $1.0M",
-          "Cash flow: $300K",
-          "Current status: qualified",
-          "Priority: high"
-        ],
-        "why_it_fits": "MSP profile is one of the best structural fits because recurring contracts and service teams can scale.",
-        "revenue_and_cash_flow_view": [
-          "Recurring revenue signal: Strong",
-          "Team signal: Strong",
-          "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
-        ],
-        "key_risks": "MSP quality depends on contract stickiness, churn, and delivery team maturity.",
-        "financing_view": [
-          "Bestimate: $495K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
-        ],
-        "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
-        ],
-        "preliminary_verdict": [
-          "Verdict: pursue",
-          "Underwriting score: 84/100",
-          "Reviewed: 2026-06-19"
-        ]
-      },
-      "sba_loan_view": {
-        "purchase_price_estimate": "$495,000",
-        "equity_injection": "$49,500",
-        "loan_amount": "$445,500",
+        "purchase_price_estimate": "$1,600,000",
+        "equity_injection": "$160,000",
+        "loan_amount": "$1,440,000",
         "interest_rate": "9.75%",
         "term_years": 10,
-        "monthly_payment": "$5,826",
-        "annual_debt_service": "$69,910",
-        "cash_flow_coverage": "4.29x",
-        "feasibility": "looks serviceable"
+        "monthly_payment": "$18,831",
+        "annual_debt_service": "$225,971",
+        "cash_flow_coverage": "0.89x",
+        "feasibility": "stretched"
       },
-      "is_confirmed_for_sale": false
+      "is_confirmed_for_sale": true
     },
     {
-      "name": "DFW HVAC",
-      "industry": "Building & Construction",
-      "location": "Coppell, TX",
-      "years_in_business": "52",
-      "revenue": "$500K",
-      "cash_flow": "$150K",
-      "bestimate": "$150K",
-      "website": "https://dfwhvac.com/",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
-      "source_query": "HVAC",
-      "recurring_revenue_signal": "Moderate",
-      "team_signal": "Moderate",
-      "retiring_owner_status": "Unverified",
-      "status": "screening",
-      "priority": "medium",
-      "underwriting_status": "complete",
-      "underwriting_score": "70",
-      "research_status": "complete",
-      "research_score": "68",
-      "last_reviewed": "2026-06-19",
-      "notes": "Long history and family legacy visible; need confirmation of service-contract recurrence and staff depth.",
-      "underwriting_details": {
-        "overview": [
-          "Industry: Building & Construction",
-          "Location: Coppell, TX",
-          "Years in business: 52",
-          "Revenue: $500K",
-          "Cash flow: $150K",
-          "Current status: screening",
-          "Priority: medium"
-        ],
-        "why_it_fits": "Potentially solid if maintenance contracts and dispatch operations are real, otherwise this is just a service shop.",
-        "revenue_and_cash_flow_view": [
-          "Recurring revenue signal: Moderate",
-          "Team signal: Moderate",
-          "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
-        ],
-        "key_risks": "Longevity is strong, but dispatch, maintenance-contract mix, and owner independence are unknown.",
-        "financing_view": [
-          "Bestimate: $150K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
-        ],
-        "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
-        ],
-        "preliminary_verdict": [
-          "Verdict: watch",
-          "Underwriting score: 70/100",
-          "Reviewed: 2026-06-19"
-        ]
-      },
-      "sba_loan_view": {
-        "purchase_price_estimate": "$150,000",
-        "equity_injection": "$15,000",
-        "loan_amount": "$135,000",
-        "interest_rate": "12.75%",
-        "term_years": 10,
-        "monthly_payment": "$1,996",
-        "annual_debt_service": "$23,950",
-        "cash_flow_coverage": "6.26x",
-        "feasibility": "looks serviceable"
-      },
-      "is_confirmed_for_sale": false
-    },
-    {
-      "name": "Accounting Advisory Services Inc.",
+      "name": "Consulting, Bookkeeping and Accounting Firm",
       "industry": "Service Businesses",
-      "location": "Berthoud, CO",
-      "years_in_business": "28",
-      "revenue": "$500K",
-      "cash_flow": "$150K",
-      "bestimate": "$248K",
-      "website": "https://berthoudtaxservices.com/",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
-      "source_query": "Accounting",
-      "recurring_revenue_signal": "Strong",
-      "team_signal": "Unknown",
-      "retiring_owner_status": "Unverified",
-      "status": "screening",
-      "priority": "medium",
-      "underwriting_status": "complete",
-      "underwriting_score": "71",
-      "research_status": "complete",
-      "research_score": "69",
-      "last_reviewed": "2026-06-19",
-      "notes": "Service line fits, but team evidence still needs validation.",
-      "underwriting_details": {
-        "overview": [
-          "Industry: Service Businesses",
-          "Location: Berthoud, CO",
-          "Years in business: 28",
-          "Revenue: $500K",
-          "Cash flow: $150K",
-          "Current status: screening",
-          "Priority: medium"
-        ],
-        "why_it_fits": "Accounting remains structurally attractive, but current evidence is thinner than the top bookkeeping firms.",
-        "revenue_and_cash_flow_view": [
-          "Recurring revenue signal: Strong",
-          "Team signal: Unknown",
-          "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
-        ],
-        "key_risks": "Service mix fits, but team depth and owner motivation remain unclear.",
-        "financing_view": [
-          "Bestimate: $248K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
-        ],
-        "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
-        ],
-        "preliminary_verdict": [
-          "Verdict: watch",
-          "Underwriting score: 71/100",
-          "Reviewed: 2026-06-19"
-        ]
-      },
-      "sba_loan_view": {
-        "purchase_price_estimate": "$248,000",
-        "equity_injection": "$24,800",
-        "loan_amount": "$223,200",
-        "interest_rate": "12.75%",
-        "term_years": 10,
-        "monthly_payment": "$3,300",
-        "annual_debt_service": "$39,597",
-        "cash_flow_coverage": "3.79x",
-        "feasibility": "looks serviceable"
-      },
-      "is_confirmed_for_sale": false
-    },
-    {
-      "name": "Golden State Property Management",
-      "industry": "All Industries",
-      "location": "San Jose, CA",
-      "years_in_business": "26",
-      "revenue": "$1.00M",
-      "cash_flow": "$150K",
-      "bestimate": "$263K",
-      "website": "https://goldenstatepropertymanagement.com/",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
-      "source_query": "property management",
-      "recurring_revenue_signal": "Strong",
-      "team_signal": "Moderate",
-      "retiring_owner_status": "Unverified",
-      "status": "screening",
-      "priority": "medium",
-      "underwriting_status": "complete",
-      "underwriting_score": "74",
-      "research_status": "complete",
-      "research_score": "71",
-      "last_reviewed": "2026-06-19",
-      "notes": "Property management can be highly recurring if doors and staff are real; needs concentration and staffing validation.",
-      "underwriting_details": {
-        "overview": [
-          "Industry: All Industries",
-          "Location: San Jose, CA",
-          "Years in business: 26",
-          "Revenue: $1.00M",
-          "Cash flow: $150K",
-          "Current status: screening",
-          "Priority: medium"
-        ],
-        "why_it_fits": "Property management can be excellent recurring revenue if staffing, maintenance systems, and owner independence are real.",
-        "revenue_and_cash_flow_view": [
-          "Recurring revenue signal: Strong",
-          "Team signal: Moderate",
-          "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
-        ],
-        "key_risks": "Recurring doors are attractive, but concentration, maintenance burden, and compliance complexity matter.",
-        "financing_view": [
-          "Bestimate: $263K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
-        ],
-        "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
-        ],
-        "preliminary_verdict": [
-          "Verdict: pursue",
-          "Underwriting score: 74/100",
-          "Reviewed: 2026-06-19"
-        ]
-      },
-      "sba_loan_view": {
-        "purchase_price_estimate": "$263,000",
-        "equity_injection": "$26,300",
-        "loan_amount": "$236,700",
-        "interest_rate": "12.75%",
-        "term_years": 10,
-        "monthly_payment": "$3,499",
-        "annual_debt_service": "$41,992",
-        "cash_flow_coverage": "3.57x",
-        "feasibility": "looks serviceable"
-      },
-      "is_confirmed_for_sale": false
-    },
-    {
-      "name": "Your HVAC Specialist",
-      "industry": "Building & Construction",
-      "location": "Baltimore, MD",
-      "years_in_business": "23",
-      "revenue": "$500K",
-      "cash_flow": "$150K",
-      "bestimate": "$150K",
-      "website": "https://yourhvacspecialist.com/",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
-      "source_query": "HVAC",
-      "recurring_revenue_signal": "Moderate",
-      "team_signal": "Unknown",
-      "retiring_owner_status": "Unverified",
-      "status": "screening",
-      "priority": "medium",
-      "underwriting_status": "complete",
-      "underwriting_score": "62",
-      "research_status": "complete",
-      "research_score": "60",
-      "last_reviewed": "2026-06-19",
-      "notes": "Age and cash flow fit; team depth still unclear.",
-      "underwriting_details": {
-        "overview": [
-          "Industry: Building & Construction",
-          "Location: Baltimore, MD",
-          "Years in business: 23",
-          "Revenue: $500K",
-          "Cash flow: $150K",
-          "Current status: screening",
-          "Priority: medium"
-        ],
-        "why_it_fits": "Could work if there is a contract base and technicians in place, but the public signal is weaker.",
-        "revenue_and_cash_flow_view": [
-          "Recurring revenue signal: Moderate",
-          "Team signal: Unknown",
-          "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
-        ],
-        "key_risks": "Could still be owner-led service work rather than a transferable team business.",
-        "financing_view": [
-          "Bestimate: $150K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
-        ],
-        "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
-        ],
-        "preliminary_verdict": [
-          "Verdict: watch",
-          "Underwriting score: 62/100",
-          "Reviewed: 2026-06-19"
-        ]
-      },
-      "sba_loan_view": {
-        "purchase_price_estimate": "$150,000",
-        "equity_injection": "$15,000",
-        "loan_amount": "$135,000",
-        "interest_rate": "12.75%",
-        "term_years": 10,
-        "monthly_payment": "$1,996",
-        "annual_debt_service": "$23,950",
-        "cash_flow_coverage": "6.26x",
-        "feasibility": "looks serviceable"
-      },
-      "is_confirmed_for_sale": false
-    },
-    {
-      "name": "Front Range Business Centers",
-      "industry": "Office / Virtual Office",
-      "location": "Fort Collins, CO",
-      "years_in_business": "18",
-      "revenue": "$900K",
-      "cash_flow": "$200K",
-      "bestimate": "$350K",
-      "website": "https://frontrangebusinesscenters.com/",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
-      "source_query": "default",
-      "recurring_revenue_signal": "Moderate",
-      "team_signal": "Moderate",
-      "retiring_owner_status": "Unverified",
-      "status": "screening",
-      "priority": "medium",
-      "underwriting_status": "complete",
-      "underwriting_score": "67",
-      "research_status": "complete",
-      "research_score": "64",
-      "last_reviewed": "2026-06-19",
-      "notes": "Membership / lease model may be recurring; team inferred, needs stronger validation.",
-      "underwriting_details": {
-        "overview": [
-          "Industry: Office / Virtual Office",
-          "Location: Fort Collins, CO",
-          "Years in business: 18",
-          "Revenue: $900K",
-          "Cash flow: $200K",
-          "Current status: screening",
-          "Priority: medium"
-        ],
-        "why_it_fits": "Interesting recurring-membership angle, but not as clean a fit as accounting or MSP targets.",
-        "revenue_and_cash_flow_view": [
-          "Recurring revenue signal: Moderate",
-          "Team signal: Moderate",
-          "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
-        ],
-        "key_risks": "Recurring revenue may be real, but occupancy/member churn and operational leverage need proof.",
-        "financing_view": [
-          "Bestimate: $350K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
-        ],
-        "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
-        ],
-        "preliminary_verdict": [
-          "Verdict: watch",
-          "Underwriting score: 67/100",
-          "Reviewed: 2026-06-19"
-        ]
-      },
-      "sba_loan_view": {
-        "purchase_price_estimate": "$350,000",
-        "equity_injection": "$35,000",
-        "loan_amount": "$315,000",
-        "interest_rate": "11.25%",
-        "term_years": 10,
-        "monthly_payment": "$4,384",
-        "annual_debt_service": "$52,606",
-        "cash_flow_coverage": "3.80x",
-        "feasibility": "looks serviceable"
-      },
-      "is_confirmed_for_sale": false
-    },
-    {
-      "name": "MODERN HVAC TECHNOLOGY LLC",
-      "industry": "Building & Construction",
-      "location": "Lincolnwood, IL",
-      "years_in_business": "16",
-      "revenue": "$500K",
-      "cash_flow": "$150K",
-      "bestimate": "$150K",
-      "website": "https://modernhvactech.com/",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
-      "source_query": "HVAC",
-      "recurring_revenue_signal": "Moderate",
-      "team_signal": "Unknown",
-      "retiring_owner_status": "Unverified",
-      "status": "screening",
-      "priority": "medium",
-      "underwriting_status": "complete",
-      "underwriting_score": "60",
-      "research_status": "complete",
-      "research_score": "58",
-      "last_reviewed": "2026-06-19",
-      "notes": "Owner identified publicly; need to confirm whether this is team-backed or owner-operator.",
-      "underwriting_details": {
-        "overview": [
-          "Industry: Building & Construction",
-          "Location: Lincolnwood, IL",
-          "Years in business: 16",
-          "Revenue: $500K",
-          "Cash flow: $150K",
-          "Current status: screening",
-          "Priority: medium"
-        ],
-        "why_it_fits": "Needs proof that this is an actual platform business and not owner-centric skilled trade labor.",
-        "revenue_and_cash_flow_view": [
-          "Recurring revenue signal: Moderate",
-          "Team signal: Unknown",
-          "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
-        ],
-        "key_risks": "May be a capable shop but transferability risk is elevated until team structure is proven.",
-        "financing_view": [
-          "Bestimate: $150K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
-        ],
-        "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
-        ],
-        "preliminary_verdict": [
-          "Verdict: watch",
-          "Underwriting score: 60/100",
-          "Reviewed: 2026-06-19"
-        ]
-      },
-      "sba_loan_view": {
-        "purchase_price_estimate": "$150,000",
-        "equity_injection": "$15,000",
-        "loan_amount": "$135,000",
-        "interest_rate": "12.75%",
-        "term_years": 10,
-        "monthly_payment": "$1,996",
-        "annual_debt_service": "$23,950",
-        "cash_flow_coverage": "6.26x",
-        "feasibility": "looks serviceable"
-      },
-      "is_confirmed_for_sale": false
-    },
-    {
-      "name": "bookkeeping",
-      "industry": "Service Businesses",
-      "location": "Temple, TX",
+      "location": "St. Charles, IL",
       "years_in_business": "11",
-      "revenue": "$2.0M",
-      "cash_flow": "$300K",
-      "bestimate": "$495K",
-      "website": "http://freibookkeepingandtaxservice.com/contact/3051477",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
+      "revenue": "$547K",
+      "cash_flow": "$185K",
+      "bestimate": "$300K",
+      "website": "",
+      "listing_source_name": "BizBuySell",
+      "listing_source_url": "https://www.bizbuysell.com/business-opportunity/consulting-bookkeeping-and-accounting-firm/2347227/",
       "source_query": "Bookkeeping",
       "recurring_revenue_signal": "Strong",
       "team_signal": "Unknown",
       "retiring_owner_status": "Unverified",
-      "status": "screening",
-      "priority": "medium",
+      "status": "qualified",
+      "priority": "high",
       "underwriting_status": "complete",
-      "underwriting_score": "73",
-      "research_status": "complete",
-      "research_score": "70",
+      "underwriting_score": "81",
+      "research_status": "pending",
+      "research_score": "",
       "last_reviewed": "2026-06-19",
-      "notes": "Economics fit well; need to verify actual company identity and team.",
+      "notes": "Bookkeeping and accounting listing with disclosed cash flow and established client base.",
       "underwriting_details": {
         "overview": [
           "Industry: Service Businesses",
-          "Location: Temple, TX",
+          "Location: St. Charles, IL",
           "Years in business: 11",
-          "Revenue: $2.0M",
-          "Cash flow: $300K",
-          "Current status: screening",
-          "Priority: medium"
+          "Revenue: $547K",
+          "Cash flow: $185K",
+          "Current status: qualified",
+          "Priority: high"
         ],
-        "why_it_fits": "Economics are attractive on paper; first priority is to verify exactly what business sits behind the listing.",
+        "why_it_fits": "Recurring bookkeeping and accounting work is structurally attractive, and the disclosed cash flow falls inside the target buy box.",
         "revenue_and_cash_flow_view": [
           "Recurring revenue signal: Strong",
           "Team signal: Unknown",
           "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
+          "Initial take: price-to-cash-flow looks workable, but team depth and transferability need proof."
         ],
-        "key_risks": "Economics fit well, but the exact business identity and staffing model need immediate confirmation.",
+        "key_risks": "The main risk is whether this is really a team-backed client service firm versus an owner-heavy solo practice.",
         "financing_view": [
-          "Bestimate: $495K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
+          "Bestimate: $300K",
+          "Seller financing preference: unknown",
+          "Preliminary view: financing looks plausible, but people/process depth is the gating diligence item."
         ],
         "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
+          "Who currently services the clients besides the owner?",
+          "What portion of revenue is recurring monthly versus advisory/project based?",
+          "Is seller transition support included?",
+          "What software stack and workflow documentation exist?",
+          "What is customer concentration?"
         ],
         "preliminary_verdict": [
           "Verdict: pursue",
-          "Underwriting score: 73/100",
+          "Underwriting score: 81/100",
           "Reviewed: 2026-06-19"
         ]
       },
       "sba_loan_view": {
-        "purchase_price_estimate": "$495,000",
-        "equity_injection": "$49,500",
-        "loan_amount": "$445,500",
-        "interest_rate": "9.75%",
+        "purchase_price_estimate": "$300,000",
+        "equity_injection": "$30,000",
+        "loan_amount": "$270,000",
+        "interest_rate": "11.25%",
         "term_years": 10,
-        "monthly_payment": "$5,826",
-        "annual_debt_service": "$69,910",
-        "cash_flow_coverage": "4.29x",
+        "monthly_payment": "$3,758",
+        "annual_debt_service": "$45,091",
+        "cash_flow_coverage": "4.10x",
         "feasibility": "looks serviceable"
       },
-      "is_confirmed_for_sale": false
-    },
-    {
-      "name": "United Payroll & Hr Services Inc",
-      "industry": "Service Businesses",
-      "location": "San Diego, CA",
-      "years_in_business": "11",
-      "revenue": "$1.00M",
-      "cash_flow": "$150K",
-      "bestimate": "$248K",
-      "website": "https://unitedpayrollhr.com/",
-      "listing_source_name": "Company website / targeted web search",
-      "listing_source_url": "",
-      "source_query": "payroll",
-      "recurring_revenue_signal": "Strong",
-      "team_signal": "Moderate",
-      "retiring_owner_status": "Unverified",
-      "status": "screening",
-      "priority": "medium",
-      "underwriting_status": "complete",
-      "underwriting_score": "76",
-      "research_status": "complete",
-      "research_score": "72",
-      "last_reviewed": "2026-06-19",
-      "notes": "Payroll and HR services suggest sticky recurring revenue; team depth still needs verification.",
-      "underwriting_details": {
-        "overview": [
-          "Industry: Service Businesses",
-          "Location: San Diego, CA",
-          "Years in business: 11",
-          "Revenue: $1.00M",
-          "Cash flow: $150K",
-          "Current status: screening",
-          "Priority: medium"
-        ],
-        "why_it_fits": "Payroll and HR are naturally sticky and can be very bankable if the client base is diversified.",
-        "revenue_and_cash_flow_view": [
-          "Recurring revenue signal: Strong",
-          "Team signal: Moderate",
-          "Seller retirement signal: Unverified",
-          "Initial take: cash flow is in-range and structurally more attractive than a purely project-led service business."
-        ],
-        "key_risks": "Payroll/HR is sticky, but we need to know scale, staffing, and retention profile.",
-        "financing_view": [
-          "Bestimate: $248K",
-          "Seller financing preference: yes",
-          "Preliminary view: likely worth exploring if owner motivation and true transferability check out."
-        ],
-        "missing_facts": [
-          "Is the owner actively retiring, and what is the exact timeline?",
-          "How many full-time employees are in place, and who runs day-to-day operations?",
-          "What percentage of revenue is contract or recurring versus one-off work?",
-          "What are the top five customers and their share of revenue?",
-          "How much of the current cash flow depends on the owner personally?",
-          "Is seller financing available and on what terms?"
-        ],
-        "preliminary_verdict": [
-          "Verdict: pursue",
-          "Underwriting score: 76/100",
-          "Reviewed: 2026-06-19"
-        ]
-      },
-      "sba_loan_view": {
-        "purchase_price_estimate": "$248,000",
-        "equity_injection": "$24,800",
-        "loan_amount": "$223,200",
-        "interest_rate": "12.75%",
-        "term_years": 10,
-        "monthly_payment": "$3,300",
-        "annual_debt_service": "$39,597",
-        "cash_flow_coverage": "3.79x",
-        "feasibility": "looks serviceable"
-      },
-      "is_confirmed_for_sale": false
+      "is_confirmed_for_sale": true
     }
   ]
 }
