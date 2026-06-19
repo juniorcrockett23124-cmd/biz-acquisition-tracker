@@ -58,6 +58,10 @@ function CandidateCard({ candidate }) {
           <span>{candidate.status}</span>
         </div>
         <div>
+          <span className="label">Prospect Source</span>
+          <span>{candidate.source_query || "default"}</span>
+        </div>
+        <div>
           <span className="label">Retiring Owner</span>
           <span>{candidate.retiring_owner_status}</span>
         </div>
@@ -138,6 +142,20 @@ function CandidateCard({ candidate }) {
               <div>
                 <span className="label">Debt View</span>
                 <span>{sbaLoanView.feasibility || "-"}</span>
+              </div>
+            </div>
+          </div>
+
+          <div className="detail-section">
+            <span className="label">Source</span>
+            <div className="details-grid">
+              <div>
+                <span className="label">Discovery Query</span>
+                <span>{candidate.source_query || "default"}</span>
+              </div>
+              <div>
+                <span className="label">Company Site</span>
+                <span>{candidate.website ? "available" : "not captured"}</span>
               </div>
             </div>
           </div>
