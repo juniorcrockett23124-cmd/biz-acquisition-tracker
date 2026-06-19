@@ -66,7 +66,9 @@ export default function App() {
   const [query, setQuery] = useState("");
 
   useEffect(() => {
-    fetch("/data/dashboard.json")
+    const dashboardUrl = `${import.meta.env.BASE_URL}data/dashboard.json`;
+
+    fetch(dashboardUrl)
       .then((res) => res.json())
       .then(setData)
       .catch(() => setData({ summary: {}, candidates: [] }));
