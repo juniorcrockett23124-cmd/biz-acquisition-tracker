@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T16:26:20.152803Z",
+  "generatedAt": "2026-06-19T16:31:29.582582Z",
   "loanAssumptions": {
     "program": "Illustrative SBA 7(a) acquisition scenario",
     "primeRate": "6.75%",
@@ -17,7 +17,7 @@
     "diligence": 0,
     "highPriority": 5,
     "underwritingPending": 0,
-    "researchPending": 7
+    "researchPending": 0
   },
   "candidates": [
     {
@@ -39,8 +39,8 @@
       "priority": "high",
       "underwriting_status": "complete",
       "underwriting_score": "84",
-      "research_status": "pending",
-      "research_score": "",
+      "research_status": "complete",
+      "research_score": "84",
       "last_reviewed": "2026-06-19",
       "notes": "Tax, bookkeeping, and payroll mix. Listing notes a solid bookkeeper expected to continue.",
       "underwriting_details": {
@@ -111,8 +111,8 @@
       "priority": "high",
       "underwriting_status": "complete",
       "underwriting_score": "82",
-      "research_status": "pending",
-      "research_score": "",
+      "research_status": "complete",
+      "research_score": "81",
       "last_reviewed": "2026-06-19",
       "notes": "24-year operating history and solid cash flow. Recurring managed services profile.",
       "underwriting_details": {
@@ -183,8 +183,8 @@
       "priority": "high",
       "underwriting_status": "complete",
       "underwriting_score": "83",
-      "research_status": "pending",
-      "research_score": "",
+      "research_status": "complete",
+      "research_score": "82",
       "last_reviewed": "2026-06-19",
       "notes": "Founded in 2008. Full-service CPA firm with accounting, financial statements, tax planning, and bookkeeping.",
       "underwriting_details": {
@@ -255,8 +255,8 @@
       "priority": "high",
       "underwriting_status": "complete",
       "underwriting_score": "79",
-      "research_status": "pending",
-      "research_score": "",
+      "research_status": "complete",
+      "research_score": "74",
       "last_reviewed": "2026-06-19",
       "notes": "Recurring managed services provider with 3 contractors and documented operations.",
       "underwriting_details": {
@@ -327,8 +327,8 @@
       "priority": "high",
       "underwriting_status": "complete",
       "underwriting_score": "81",
-      "research_status": "pending",
-      "research_score": "",
+      "research_status": "complete",
+      "research_score": "78",
       "last_reviewed": "2026-06-19",
       "notes": "Bookkeeping and accounting listing with disclosed cash flow and established client base.",
       "underwriting_details": {
@@ -399,8 +399,8 @@
       "priority": "medium",
       "underwriting_status": "complete",
       "underwriting_score": "72",
-      "research_status": "pending",
-      "research_score": "",
+      "research_status": "complete",
+      "research_score": "68",
       "last_reviewed": "2026-06-19",
       "notes": "SMB.co listing surfaced from Terrell Hills source page. Revenue/cash flow/valuation are present, but operating history and team depth still need validation.",
       "underwriting_details": {
@@ -471,8 +471,8 @@
       "priority": "medium",
       "underwriting_status": "complete",
       "underwriting_score": "72",
-      "research_status": "pending",
-      "research_score": "",
+      "research_status": "complete",
+      "research_score": "67",
       "last_reviewed": "2026-06-19",
       "notes": "SMB.co listing surfaced from Oakmont source page. Revenue/cash flow/valuation are present, but operating history and team depth still need validation.",
       "underwriting_details": {

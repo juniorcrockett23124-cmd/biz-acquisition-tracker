@@ -2,26 +2,26 @@
 
 ## Top 5 Overall
 
-1. J Chester & Associates CPA Firm
-2. Benchmark Bookkeeping & Payroll
-3. Arrow Bookkeeping
-4. Corptek Solutions
-5. Network Elites
+1. CPA Practice - Hernando County Florida - $365K Revenue
+2. Fairfax County Full Service CPA & Bookkeeping
+3. High Margin 24-Year Managed IT Services Provider
+4. Consulting, Bookkeeping and Accounting Firm
+5. Established Managed IT Services Provider with Recurring Revenue
 
 ## Top 3 Ready For Outreach
 
-1. J Chester & Associates CPA Firm
-2. Benchmark Bookkeeping & Payroll
-3. Downtown Managed Services
+1. CPA Practice - Hernando County Florida - $365K Revenue
+2. Fairfax County Full Service CPA & Bookkeeping
+3. Consulting, Bookkeeping and Accounting Firm
 
-## Top 3 Ready For Underwriting
+## Top 3 Ready For Diligence
 
-1. Corptek Solutions
-2. Network Elites
-3. Golden State Property Management
+1. High Margin 24-Year Managed IT Services Provider
+2. Established Managed IT Services Provider with Recurring Revenue
+3. COCoPropertyManagement
 
 ## Pass / Watch Signals
 
-- MODERN HVAC TECHNOLOGY LLC: may be too owner-led, team needs proof
-- Your HVAC Specialist: recurring service is plausible, but team evidence is thin
-- Front Range Business Centers: interesting, but weaker than the accounting and MSP names until transferability is clearer
+- Established Managed IT Services Provider with Recurring Revenue: model is attractive, but valuation looks full
+- COCoPropertyManagement: `SMB.co` lead with usable economics but thin detail
+- GPRES Property Management: `SMB.co` lead with acceptable on-paper economics but sparse operating detail
