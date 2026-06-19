@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T15:57:26.987436Z",
+  "generatedAt": "2026-06-19T16:26:20.152803Z",
   "loanAssumptions": {
     "program": "Illustrative SBA 7(a) acquisition scenario",
     "primeRate": "6.75%",
@@ -9,15 +9,15 @@
     "asOf": "2026-06-19"
   },
   "summary": {
-    "total": 5,
-    "confirmedForSale": 5,
+    "total": 7,
+    "confirmedForSale": 7,
     "qualified": 5,
-    "screening": 0,
+    "screening": 2,
     "contacted": 0,
     "diligence": 0,
     "highPriority": 5,
     "underwritingPending": 0,
-    "researchPending": 5
+    "researchPending": 7
   },
   "candidates": [
     {
@@ -376,6 +376,150 @@
         "monthly_payment": "$3,758",
         "annual_debt_service": "$45,091",
         "cash_flow_coverage": "4.10x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "COCoPropertyManagement",
+      "industry": "All Industries",
+      "location": "Terrell Hills, TX",
+      "years_in_business": "0",
+      "revenue": "$500K",
+      "cash_flow": "$150K",
+      "bestimate": "$263K",
+      "website": "",
+      "listing_source_name": "SMB.co",
+      "listing_source_url": "https://smb.co/businesses-for-sale/texas/terrell-hills",
+      "source_query": "property management",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Unknown",
+      "retiring_owner_status": "Unverified",
+      "status": "screening",
+      "priority": "medium",
+      "underwriting_status": "complete",
+      "underwriting_score": "72",
+      "research_status": "pending",
+      "research_score": "",
+      "last_reviewed": "2026-06-19",
+      "notes": "SMB.co listing surfaced from Terrell Hills source page. Revenue/cash flow/valuation are present, but operating history and team depth still need validation.",
+      "underwriting_details": {
+        "overview": [
+          "Industry: All Industries",
+          "Location: Terrell Hills, TX",
+          "Years in business: 0",
+          "Revenue: $500K",
+          "Cash flow: $150K",
+          "Current status: screening",
+          "Priority: medium"
+        ],
+        "why_it_fits": "Property management is attractive when doors under management and ops staff are real because revenue can be recurring and sticky.",
+        "revenue_and_cash_flow_view": [
+          "Recurring revenue signal: Strong",
+          "Team signal: Unknown",
+          "Seller retirement signal: Unverified",
+          "Initial take: economics fit the buy box, but the SMB listing detail is thin and needs validation before moving higher."
+        ],
+        "key_risks": "The listing appears on an SMB city/source page with limited detail, so team depth, operating history, and actual portfolio quality are all unverified.",
+        "financing_view": [
+          "Bestimate: $263K",
+          "Seller financing preference: unknown",
+          "Preliminary view: SBA payments should be manageable on paper, but confidence is lower until the business is validated directly."
+        ],
+        "missing_facts": [
+          "Exact years in business",
+          "Doors under management",
+          "Team and maintenance/vendor structure",
+          "Customer concentration and churn",
+          "Seller motivation and transition support"
+        ],
+        "preliminary_verdict": [
+          "Verdict: watch",
+          "Underwriting score: 72/100",
+          "Reviewed: 2026-06-19"
+        ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$263,000",
+        "equity_injection": "$26,300",
+        "loan_amount": "$236,700",
+        "interest_rate": "12.75%",
+        "term_years": 10,
+        "monthly_payment": "$3,499",
+        "annual_debt_service": "$41,992",
+        "cash_flow_coverage": "3.57x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "GPRES Property Management",
+      "industry": "All Industries",
+      "location": "Oakmont, PA",
+      "years_in_business": "0",
+      "revenue": "$500K",
+      "cash_flow": "$150K",
+      "bestimate": "$263K",
+      "website": "",
+      "listing_source_name": "SMB.co",
+      "listing_source_url": "https://smb.co/businesses-for-sale/pennsylvania/oakmont",
+      "source_query": "property management",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Unknown",
+      "retiring_owner_status": "Unverified",
+      "status": "screening",
+      "priority": "medium",
+      "underwriting_status": "complete",
+      "underwriting_score": "72",
+      "research_status": "pending",
+      "research_score": "",
+      "last_reviewed": "2026-06-19",
+      "notes": "SMB.co listing surfaced from Oakmont source page. Revenue/cash flow/valuation are present, but operating history and team depth still need validation.",
+      "underwriting_details": {
+        "overview": [
+          "Industry: All Industries",
+          "Location: Oakmont, PA",
+          "Years in business: 0",
+          "Revenue: $500K",
+          "Cash flow: $150K",
+          "Current status: screening",
+          "Priority: medium"
+        ],
+        "why_it_fits": "Property management can fit the recurring-revenue buy box if the managed portfolio and operating system are legitimate and transferable.",
+        "revenue_and_cash_flow_view": [
+          "Recurring revenue signal: Strong",
+          "Team signal: Unknown",
+          "Seller retirement signal: Unverified",
+          "Initial take: SMB snippet shows workable revenue, cash flow, and valuation, but detail depth is materially lower than broker listings."
+        ],
+        "key_risks": "Listing detail is sparse, so portfolio size, staffing, and actual transferability are unclear.",
+        "financing_view": [
+          "Bestimate: $263K",
+          "Seller financing preference: unknown",
+          "Preliminary view: financeable on paper, but diligence confidence is lower until source details are expanded."
+        ],
+        "missing_facts": [
+          "Exact years in business",
+          "Doors under management",
+          "Team structure",
+          "Portfolio retention and churn",
+          "Seller motivation and transition terms"
+        ],
+        "preliminary_verdict": [
+          "Verdict: watch",
+          "Underwriting score: 72/100",
+          "Reviewed: 2026-06-19"
+        ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$263,000",
+        "equity_injection": "$26,300",
+        "loan_amount": "$236,700",
+        "interest_rate": "12.75%",
+        "term_years": 10,
+        "monthly_payment": "$3,499",
+        "annual_debt_service": "$41,992",
+        "cash_flow_coverage": "3.57x",
         "feasibility": "looks serviceable"
       },
       "is_confirmed_for_sale": true
