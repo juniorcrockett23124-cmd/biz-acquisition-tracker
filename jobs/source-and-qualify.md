@@ -6,9 +6,14 @@ Daily find businesses that fit the buy box and add only credible prospects to th
 
 ## Sources
 
-- SMB
 - BizBuySell
+- BusinessesForSale
+- BizQuest
+- BusinessBroker.net
+- SMB.co
+- Axial for larger lower-middle-market opportunities
 - Acquire.com for SaaS or software-like service businesses
+- LoopNet for business-with-real-estate situations
 - niche broker sites
 - targeted web searches for retiring owners and industry-specific firms
 

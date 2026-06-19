@@ -37,3 +37,5 @@ Central workspace for sourcing, screening, and tracking small business acquisiti
 Seller age / retirement status is often not public. Treat that as a diligence field until verified.
 
 Separate `company website` from `listing source`. A company URL is not the same thing as a for-sale listing or broker source URL.
+
+Primary listing sources should be marketplace or broker URLs first: `BizBuySell`, `BusinessesForSale`, `BizQuest`, `BusinessBroker.net`, `SMB.co`, `Axial`, `Acquire.com`, `LoopNet`, and strong niche broker sites where relevant.
