@@ -164,7 +164,7 @@ function CandidateCard({ candidate }) {
                     Open listing source
                   </a>
                 ) : (
-                  <span>Not captured in initial run</span>
+                  <span>Not captured</span>
                 )}
               </div>
               <div>
@@ -191,9 +191,9 @@ function CandidateCard({ candidate }) {
           </div>
         </div>
       </details>
-      {candidate.website ? (
-        <a className="site-link" href={candidate.website} target="_blank" rel="noreferrer">
-          Open site
+      {candidate.listing_source_url ? (
+        <a className="site-link" href={candidate.listing_source_url} target="_blank" rel="noreferrer">
+          Open listing
         </a>
       ) : null}
     </article>
@@ -213,7 +213,11 @@ export default function App() {
       .catch(() => setData({ summary: {}, candidates: [] }));
   }, []);
 
-  const candidates = (data?.candidates || []).filter((candidate) => {
+  const confirmedCandidates = (data?.candidates || []).filter(
+    (candidate) => candidate.is_confirmed_for_sale
+  );
+
+  const candidates = confirmedCandidates.filter((candidate) => {
     const haystack = [
       candidate.name,
       candidate.industry,
@@ -237,6 +241,9 @@ export default function App() {
         <p className="hero-note">
           SBA loan view uses a conservative estimate: 10% equity down, 10-year term, and current SBA variable-rate ceilings.
         </p>
+        <p className="hero-note">
+          Active cards are limited to prospects with a captured business-for-sale listing or broker source URL.
+        </p>
         <input
           className="search"
           type="search"
@@ -247,14 +254,23 @@ export default function App() {
       </section>
 
       <section className="metrics">
-        <Metric label="Total Prospects" value={data?.summary?.total ?? 0} />
-        <Metric label="Qualified" value={data?.summary?.qualified ?? 0} />
+        <Metric label="Tracked Prospects" value={data?.summary?.total ?? 0} />
+        <Metric label="Confirmed For Sale" value={data?.summary?.confirmedForSale ?? 0} />
         <Metric label="High Priority" value={data?.summary?.highPriority ?? 0} />
         <Metric label="Underwriting Pending" value={data?.summary?.underwritingPending ?? 0} />
         <Metric label="Research Pending" value={data?.summary?.researchPending ?? 0} />
       </section>
 
       <section className="list">
+        {candidates.length === 0 ? (
+          <article className="card">
+            <h3>No confirmed sale listings yet</h3>
+            <p className="notes">
+              The current tracker contains screened operating businesses, but this dashboard now hides any prospect
+              without a captured marketplace or broker listing URL.
+            </p>
+          </article>
+        ) : null}
         {candidates.map((candidate) => (
           <CandidateCard key={`${candidate.name}-${candidate.location}`} candidate={candidate} />
         ))}

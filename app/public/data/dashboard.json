@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T15:42:21.407606Z",
+  "generatedAt": "2026-06-19T15:53:01.419395Z",
   "loanAssumptions": {
     "program": "Illustrative SBA 7(a) acquisition scenario",
     "primeRate": "6.75%",
@@ -10,6 +10,7 @@
   },
   "summary": {
     "total": 14,
+    "confirmedForSale": 0,
     "qualified": 6,
     "screening": 8,
     "contacted": 0,
@@ -89,7 +90,8 @@
         "annual_debt_service": "$69,910",
         "cash_flow_coverage": "4.29x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     },
     {
       "name": "Benchmark Bookkeeping & Payroll",
@@ -161,7 +163,8 @@
         "annual_debt_service": "$39,597",
         "cash_flow_coverage": "3.79x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     },
     {
       "name": "Downtown Managed Services",
@@ -233,7 +236,8 @@
         "annual_debt_service": "$69,910",
         "cash_flow_coverage": "4.29x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     },
     {
       "name": "Arrow Bookkeeping",
@@ -305,7 +309,8 @@
         "annual_debt_service": "$39,597",
         "cash_flow_coverage": "3.79x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     },
     {
       "name": "Network Elites",
@@ -377,7 +382,8 @@
         "annual_debt_service": "$49,600",
         "cash_flow_coverage": "4.03x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     },
     {
       "name": "Corptek Solutions",
@@ -449,7 +455,8 @@
         "annual_debt_service": "$69,910",
         "cash_flow_coverage": "4.29x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     },
     {
       "name": "DFW HVAC",
@@ -521,7 +528,8 @@
         "annual_debt_service": "$23,950",
         "cash_flow_coverage": "6.26x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     },
     {
       "name": "Accounting Advisory Services Inc.",
@@ -593,7 +601,8 @@
         "annual_debt_service": "$39,597",
         "cash_flow_coverage": "3.79x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     },
     {
       "name": "Golden State Property Management",
@@ -665,7 +674,8 @@
         "annual_debt_service": "$41,992",
         "cash_flow_coverage": "3.57x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     },
     {
       "name": "Your HVAC Specialist",
@@ -737,7 +747,8 @@
         "annual_debt_service": "$23,950",
         "cash_flow_coverage": "6.26x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     },
     {
       "name": "Front Range Business Centers",
@@ -809,7 +820,8 @@
         "annual_debt_service": "$52,606",
         "cash_flow_coverage": "3.80x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     },
     {
       "name": "MODERN HVAC TECHNOLOGY LLC",
@@ -881,7 +893,8 @@
         "annual_debt_service": "$23,950",
         "cash_flow_coverage": "6.26x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     },
     {
       "name": "bookkeeping",
@@ -953,7 +966,8 @@
         "annual_debt_service": "$69,910",
         "cash_flow_coverage": "4.29x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     },
     {
       "name": "United Payroll & Hr Services Inc",
@@ -1025,7 +1039,8 @@
         "annual_debt_service": "$39,597",
         "cash_flow_coverage": "3.79x",
         "feasibility": "looks serviceable"
-      }
+      },
+      "is_confirmed_for_sale": false
     }
   ]
 }

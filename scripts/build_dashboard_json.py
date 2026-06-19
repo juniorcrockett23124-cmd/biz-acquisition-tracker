@@ -150,6 +150,7 @@ def build_sba_view(row):
 def build_summary(rows):
     summary = {
         "total": len(rows),
+        "confirmedForSale": 0,
         "qualified": 0,
         "screening": 0,
         "contacted": 0,
@@ -163,11 +164,14 @@ def build_summary(rows):
         priority = row.get("priority", "").strip()
         underwriting_status = row.get("underwriting_status", "").strip()
         research_status = row.get("research_status", "").strip()
+        listing_source_url = row.get("listing_source_url", "").strip()
 
         if status in summary:
             summary[status] += 1
         if priority == "high":
             summary["highPriority"] += 1
+        if listing_source_url:
+            summary["confirmedForSale"] += 1
         if underwriting_status in ("", "pending"):
             summary["underwritingPending"] += 1
         if research_status in ("", "pending"):
@@ -194,6 +198,7 @@ def main():
         slug = slugify(row.get("name", ""))
         row["underwriting_details"] = underwriting_details.get(slug, {})
         row["sba_loan_view"] = build_sba_view(row)
+        row["is_confirmed_for_sale"] = bool(row.get("listing_source_url", "").strip())
 
     payload = {
         "generatedAt": datetime.utcnow().isoformat() + "Z",
