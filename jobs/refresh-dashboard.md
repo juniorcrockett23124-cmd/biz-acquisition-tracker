@@ -10,4 +10,5 @@ Rebuild the dashboard data used by the React app.
 2. Ensure `app/public/data/dashboard.json` is updated.
 3. Optionally build the app if dependencies are installed:
    - `cd app && npm run build`
-4. Do not change business judgments in this job. This job is presentation-only.
+4. If the dashboard should go live immediately, publish the repo changes to `main` so GitHub Pages redeploys.
+5. Do not change business judgments in this job. This job is presentation-only.

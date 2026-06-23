@@ -40,3 +40,10 @@ Move to `qualified` if:
 - Managed IT / MSP: high priority
 - HVAC with service contracts and dispatch staff: high priority
 - Brokerage-heavy, personality-led, or thin-team businesses: lower priority
+
+## 6. Publish The Dashboard
+
+- Rebuild dashboard data after candidate changes.
+- Verify the React app still builds.
+- Push the updated repo state to `main` so GitHub Pages redeploys the live site.
+- Preferred path: run `scripts/publish_latest.sh`.

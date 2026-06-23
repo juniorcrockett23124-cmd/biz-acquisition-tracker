@@ -39,3 +39,11 @@ Seller age / retirement status is often not public. Treat that as a diligence fi
 Separate `company website` from `listing source`. A company URL is not the same thing as a for-sale listing or broker source URL.
 
 Primary listing sources should be marketplace or broker URLs first: `BizBuySell`, `BusinessesForSale`, `BizQuest`, `BusinessBroker.net`, `SMB.co`, `Axial`, `Acquire.com`, `LoopNet`, and strong niche broker sites where relevant.
+
+## Publish
+
+The live dashboard is deployed from `main` via GitHub Pages.
+
+- Local data refresh is not enough to update the website.
+- After updating sourcing, underwriting, research, or dashboard output, publish the repo changes to `main`.
+- Use `scripts/publish_latest.sh` to rebuild the dashboard, verify the app build, commit tracked and new output files, and push `main`.

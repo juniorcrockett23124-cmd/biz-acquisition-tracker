@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T16:31:29.582582Z",
+  "generatedAt": "2026-06-23T03:41:25.428839Z",
   "loanAssumptions": {
     "program": "Illustrative SBA 7(a) acquisition scenario",
     "primeRate": "6.75%",
@@ -9,17 +9,151 @@
     "asOf": "2026-06-19"
   },
   "summary": {
-    "total": 7,
-    "confirmedForSale": 7,
-    "qualified": 5,
+    "total": 11,
+    "confirmedForSale": 11,
+    "qualified": 9,
     "screening": 2,
     "contacted": 0,
     "diligence": 0,
-    "highPriority": 5,
+    "highPriority": 9,
     "underwritingPending": 0,
     "researchPending": 0
   },
   "candidates": [
+    {
+      "name": "Accounting practice affluent NW suburb of Chicago, Semi-Absentee",
+      "industry": "Service Businesses",
+      "location": "Cook County, IL",
+      "years_in_business": "39",
+      "revenue": "$1.94M",
+      "cash_flow": "$515K",
+      "bestimate": "",
+      "website": "",
+      "listing_source_name": "BizBuySell",
+      "listing_source_url": "https://www.bizbuysell.com/business-opportunity/accounting-practice-affluent-nw-suburb-of-chicago-semi-absentee/2509479/",
+      "source_query": "accounting practice chicago",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Strong",
+      "retiring_owner_status": "Verified",
+      "status": "qualified",
+      "priority": "high",
+      "underwriting_status": "complete",
+      "underwriting_score": "92",
+      "research_status": "complete",
+      "research_score": "91",
+      "last_reviewed": "2026-06-22",
+      "notes": "Established in 1987 with approximately 250 active clients, 6 full-time employees plus 2 part-time staff, and seller retirement explicitly disclosed. Monthly/quarterly billings plus bookkeeping and payroll create a meaningful recurring revenue base.",
+      "underwriting_details": {
+        "overview": [
+          "Industry: Service Businesses",
+          "Location: Cook County, IL",
+          "Years in business: 39",
+          "Revenue: $1.94M",
+          "Cash flow: $515K",
+          "Current status: qualified",
+          "Priority: high"
+        ],
+        "why_it_fits": "Long operating history, a sizable recurring client base, explicit retirement motivation, and a staffed delivery model make this one of the strongest accounting-platform fits in the current set.",
+        "revenue_and_cash_flow_view": [
+          "Recurring revenue signal: Strong",
+          "Team signal: Strong",
+          "Seller retirement signal: Verified",
+          "Initial take: monthly and quarterly billing, bookkeeping, and payroll support durable repeat revenue and indicate the owner is not the whole operation."
+        ],
+        "key_risks": "Need to confirm client concentration, retention after transition, and how much rainmaking still depends on the seller despite the semi-absentee positioning.",
+        "financing_view": [
+          "Bestimate: not disclosed",
+          "Seller financing preference: unknown",
+          "Preliminary view: business quality looks strong enough for serious lender interest, but the absence of a clear asking price means leverage and return profile still need to be underwritten from the CIM."
+        ],
+        "missing_facts": [
+          "Asking price and implied multiple on SDE",
+          "Revenue mix across tax, bookkeeping, payroll, and advisory work",
+          "Top-client concentration and attrition history",
+          "Seller's exact weekly involvement in sales and technical review",
+          "Transition support and any seller carry"
+        ],
+        "preliminary_verdict": [
+          "Verdict: pursue",
+          "Underwriting score: 92/100",
+          "Reviewed: 2026-06-22"
+        ]
+      },
+      "sba_loan_view": {},
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "Growing IT & Web Hosting MSP w/ Recurring Revs $300K in SDE",
+      "industry": "Service Businesses",
+      "location": "Duval County, FL",
+      "years_in_business": "36",
+      "revenue": "$889K",
+      "cash_flow": "$300K",
+      "bestimate": "$1.05M",
+      "website": "",
+      "listing_source_name": "BizBuySell",
+      "listing_source_url": "https://www.bizbuysell.com/business-opportunity/growing-it-and-web-hosting-msp-w-recurring-revs-300k-in-sde/2465291/",
+      "source_query": "managed service provider recurring revenue",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Moderate",
+      "retiring_owner_status": "Verified",
+      "status": "qualified",
+      "priority": "high",
+      "underwriting_status": "complete",
+      "underwriting_score": "89",
+      "research_status": "complete",
+      "research_score": "86",
+      "last_reviewed": "2026-06-22",
+      "notes": "Managed IT, cloud, and web hosting provider established in 1989 with 3 employees, Microsoft and Dell partner credentials, seller financing availability, and explicit retirement motivation. Long-standing SMB and nonprofit client base suggests durable repeat revenue.",
+      "underwriting_details": {
+        "overview": [
+          "Industry: Service Businesses",
+          "Location: Duval County, FL",
+          "Years in business: 36",
+          "Revenue: $889K",
+          "Cash flow: $300K",
+          "Current status: qualified",
+          "Priority: high"
+        ],
+        "why_it_fits": "Recurring managed services and hosting revenue, long operating history, channel credentials, and explicit retirement motivation align well with the target profile for an owner-independent service business.",
+        "revenue_and_cash_flow_view": [
+          "Recurring revenue signal: Strong",
+          "Team signal: Moderate",
+          "Seller retirement signal: Verified",
+          "Initial take: the revenue base appears sticky and technical-service oriented, but diligence needs to confirm churn, contract term, and whether web hosting margins are sustainable."
+        ],
+        "key_risks": "The main concerns are customer concentration, dependence on the owner for technical escalation or sales, and whether the hosting layer introduces hidden infrastructure or support complexity.",
+        "financing_view": [
+          "Bestimate: $1.05M",
+          "Seller financing preference: likely available",
+          "Preliminary view: cash flow coverage should support an SBA structure more comfortably if seller carry is real and the recurring revenue mix is validated."
+        ],
+        "missing_facts": [
+          "MRR split across MSP, cloud, and hosting lines",
+          "Customer concentration and churn history",
+          "Owner role in sales, account management, and technical delivery",
+          "Infrastructure stack, vendor dependencies, and support obligations",
+          "Terms and size of any seller financing"
+        ],
+        "preliminary_verdict": [
+          "Verdict: pursue",
+          "Underwriting score: 89/100",
+          "Reviewed: 2026-06-22"
+        ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$1,050,000",
+        "equity_injection": "$105,000",
+        "loan_amount": "$945,000",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$12,358",
+        "annual_debt_service": "$148,293",
+        "cash_flow_coverage": "2.02x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
     {
       "name": "CPA Practice - Hernando County Florida - $365K Revenue",
       "industry": "Service Businesses",
@@ -88,6 +222,78 @@
         "monthly_payment": "$4,572",
         "annual_debt_service": "$54,860",
         "cash_flow_coverage": "4.27x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "26-Year Property Management & Concierge Service Business",
+      "industry": "Service Businesses",
+      "location": "Aspen, CO",
+      "years_in_business": "26",
+      "revenue": "$874K",
+      "cash_flow": "$359K",
+      "bestimate": "$900K",
+      "website": "",
+      "listing_source_name": "BizBuySell",
+      "listing_source_url": "https://www.bizbuysell.com/business-opportunity/26-year-property-management-and-concierge-service-business/2491771/",
+      "source_query": "property management recurring retirement",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Moderate",
+      "retiring_owner_status": "Verified",
+      "status": "qualified",
+      "priority": "high",
+      "underwriting_status": "complete",
+      "underwriting_score": "88",
+      "research_status": "complete",
+      "research_score": "85",
+      "last_reviewed": "2026-06-22",
+      "notes": "Serving approximately 20 homes with predictable recurring revenue, 3 employees, seller financing available, and retirement explicitly disclosed. Concierge model is relationship-driven but long operating history and repeat homeowner base fit the buy box.",
+      "underwriting_details": {
+        "overview": [
+          "Industry: Service Businesses",
+          "Location: Aspen, CO",
+          "Years in business: 26",
+          "Revenue: $874K",
+          "Cash flow: $359K",
+          "Current status: qualified",
+          "Priority: high"
+        ],
+        "why_it_fits": "The listing shows long tenure, repeat homeowner relationships, disclosed cash flow, a small operating team, and verified retirement motivation with seller financing available.",
+        "revenue_and_cash_flow_view": [
+          "Recurring revenue signal: Strong",
+          "Team signal: Moderate",
+          "Seller retirement signal: Verified",
+          "Initial take: predictable management revenue is attractive, but the concierge component needs diligence to separate true recurring contracts from owner-driven service requests."
+        ],
+        "key_risks": "Relationship concentration is the main issue here because the business serves only about 20 homes in a premium market where a few account losses could materially hit earnings.",
+        "financing_view": [
+          "Bestimate: $900K",
+          "Seller financing preference: likely available",
+          "Preliminary view: valuation versus cash flow is reasonable, and seller carry could make the deal more lender-friendly if retention and operational transferability check out."
+        ],
+        "missing_facts": [
+          "Revenue split between management fees and concierge services",
+          "Client concentration and contract renewal terms",
+          "Exact responsibilities of the 3 employees",
+          "Owner role in homeowner relationships and emergency coordination",
+          "Seasonality and service-demand volatility by quarter"
+        ],
+        "preliminary_verdict": [
+          "Verdict: pursue",
+          "Underwriting score: 88/100",
+          "Reviewed: 2026-06-22"
+        ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$900,000",
+        "equity_injection": "$90,000",
+        "loan_amount": "$810,000",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$10,592",
+        "annual_debt_service": "$127,109",
+        "cash_flow_coverage": "2.82x",
         "feasibility": "looks serviceable"
       },
       "is_confirmed_for_sale": true
@@ -232,6 +438,78 @@
         "monthly_payment": "$10,004",
         "annual_debt_service": "$120,047",
         "cash_flow_coverage": "2.20x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "Virtual Bookkeeping And Accounting Firm",
+      "industry": "Service Businesses",
+      "location": "Florida, US",
+      "years_in_business": "15",
+      "revenue": "$933K",
+      "cash_flow": "$368K",
+      "bestimate": "$1.5M",
+      "website": "",
+      "listing_source_name": "BusinessesForSale",
+      "listing_source_url": "https://us.businessesforsale.com/us/virtual-bookkeeping-and-accounting-firm.aspx",
+      "source_query": "virtual bookkeeping accounting firm",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Strong",
+      "retiring_owner_status": "Verified",
+      "status": "qualified",
+      "priority": "high",
+      "underwriting_status": "complete",
+      "underwriting_score": "90",
+      "research_status": "complete",
+      "research_score": "89",
+      "last_reviewed": "2026-06-22",
+      "notes": "100% recurring revenue with auto-renewing client contracts, 4 employees, owner no longer involved in day-to-day bookkeeping, and retirement disclosed. Remote delivery plus seasoned team make this one of the cleaner owner-independent fits.",
+      "underwriting_details": {
+        "overview": [
+          "Industry: Service Businesses",
+          "Location: Florida, US",
+          "Years in business: 15",
+          "Revenue: $933K",
+          "Cash flow: $368K",
+          "Current status: qualified",
+          "Priority: high"
+        ],
+        "why_it_fits": "This is a strong fit on paper because the revenue is fully recurring, the service delivery is remote, the team is already in place, and the owner is reportedly out of day-to-day production with retirement disclosed.",
+        "revenue_and_cash_flow_view": [
+          "Recurring revenue signal: Strong",
+          "Team signal: Strong",
+          "Seller retirement signal: Verified",
+          "Initial take: auto-renewing contracts and an owner-light operating model make the cash flow profile more defensible than most small bookkeeping listings."
+        ],
+        "key_risks": "Need to verify client retention economics, offshore or contractor dependencies if any, and whether the team can maintain service quality through ownership change without hidden owner intervention.",
+        "financing_view": [
+          "Bestimate: $1.5M",
+          "Seller financing preference: unknown",
+          "Preliminary view: quality is attractive, but the valuation is full, so returns likely depend on contract durability, limited churn, and some combination of seller carry or downside price negotiation."
+        ],
+        "missing_facts": [
+          "Client count, average account size, and concentration",
+          "Exact staffing model and tenure of the 4 employees",
+          "Scope of services by bookkeeping, controller, tax, and advisory lines",
+          "Churn history and renewal mechanics behind the auto-renewing contracts",
+          "Seller carry, transition support, and software stack transferability"
+        ],
+        "preliminary_verdict": [
+          "Verdict: pursue",
+          "Underwriting score: 90/100",
+          "Reviewed: 2026-06-22"
+        ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$1,500,000",
+        "equity_injection": "$150,000",
+        "loan_amount": "$1,350,000",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$17,654",
+        "annual_debt_service": "$211,848",
+        "cash_flow_coverage": "1.74x",
         "feasibility": "looks serviceable"
       },
       "is_confirmed_for_sale": true
