@@ -1,5 +1,13 @@
 # Workflow
 
+## 0. Expand The Source Stack
+
+Periodically search for new acquisition marketplaces, aggregators, and niche broker sites that fit the buy box.
+
+- Record candidate sources in `data/source-discovery/YYYY-MM-DD.md`
+- Promote proven channels into `data/source-registry.md`
+- Feed approved sources into the daily sourcing job
+
 ## 1. Source
 
 Search marketplaces and note any business that appears to fit the target profile.

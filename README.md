@@ -14,6 +14,8 @@ Central workspace for sourcing, screening, and tracking small business acquisiti
 
 - `config/buy-box.json`: acquisition criteria and scoring weights
 - `data/candidates.csv`: master list of sourced businesses
+- `data/source-registry.md`: active, trial, and backlog sourcing channels
+- `data/source-discovery/`: dated source-expansion research notes
 - `data/underwriting/`: underwriting memos by company
 - `data/research/`: deep research memos by company
 - `data/daily-sourcing/`: dated sourcing snapshots
@@ -39,6 +41,12 @@ Seller age / retirement status is often not public. Treat that as a diligence fi
 Separate `company website` from `listing source`. A company URL is not the same thing as a for-sale listing or broker source URL.
 
 Primary listing sources should be marketplace or broker URLs first: `BizBuySell`, `BusinessesForSale`, `BizQuest`, `BusinessBroker.net`, `SMB.co`, `Axial`, `Acquire.com`, `LoopNet`, and strong niche broker sites where relevant.
+
+Track source expansion separately from daily prospecting:
+
+- use `jobs/discover-sources.md` to find new marketplaces, aggregators, and niche broker sites
+- record findings in `data/source-discovery/YYYY-MM-DD.md`
+- update `data/source-registry.md` with `active`, `trial`, `backlog`, or `rejected` status
 
 ## Publish
 
