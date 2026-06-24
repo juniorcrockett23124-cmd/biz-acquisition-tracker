@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T03:52:39.566050Z",
+  "generatedAt": "2026-06-24T16:15:07.981028Z",
   "loanAssumptions": {
     "program": "Illustrative SBA 7(a) acquisition scenario",
     "primeRate": "6.75%",
@@ -9,13 +9,13 @@
     "asOf": "2026-06-19"
   },
   "summary": {
-    "total": 11,
-    "confirmedForSale": 11,
-    "qualified": 9,
-    "screening": 2,
+    "total": 20,
+    "confirmedForSale": 20,
+    "qualified": 16,
+    "screening": 4,
     "contacted": 0,
     "diligence": 0,
-    "highPriority": 9,
+    "highPriority": 16,
     "underwritingPending": 0,
     "researchPending": 0
   },
@@ -587,6 +587,78 @@
       "is_confirmed_for_sale": true
     },
     {
+      "name": "Established Managed Service Provider (MSP)-Cybersecurity-Led Delivery",
+      "industry": "Service Businesses",
+      "location": "Salt Lake City, UT",
+      "years_in_business": "12",
+      "revenue": "$750K",
+      "cash_flow": "$515K",
+      "bestimate": "$2.1M",
+      "website": "",
+      "listing_source_name": "BizBuySell",
+      "listing_source_url": "https://www.bizbuysell.com/business-opportunity/established-managed-service-provider-msp-cybersecurity-led-delivery/2460580/",
+      "source_query": "cybersecurity msp recurring retirement",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Moderate",
+      "retiring_owner_status": "Verified",
+      "status": "qualified",
+      "priority": "high",
+      "underwriting_status": "complete",
+      "underwriting_score": "91",
+      "research_status": "complete",
+      "research_score": "89",
+      "last_reviewed": "2026-06-23",
+      "notes": "Established in 2014 with approximately 20 active clients, 3 full-time employees, cybersecurity-led recurring revenue, seller financing openness, and explicit retirement motivation. Higher price point than the sweet spot, but cash flow quality and transition support are strong.",
+      "underwriting_details": {
+        "overview": [
+          "Industry: Service Businesses",
+          "Location: Salt Lake City, UT",
+          "Years in business: 12",
+          "Revenue: $750K",
+          "Cash flow: $515K",
+          "Current status: qualified",
+          "Priority: high"
+        ],
+        "why_it_fits": "This is one of the strongest current MSP targets because the listing combines recurring cybersecurity-led revenue, a meaningful active-client base, 3 full-time employees, and explicit retirement motivation.",
+        "revenue_and_cash_flow_view": [
+          "Recurring revenue signal: Strong",
+          "Team signal: Moderate",
+          "Seller retirement signal: Verified",
+          "Initial take: cash flow quality looks materially better than most small MSP listings, and the cybersecurity emphasis suggests a stickier managed-services relationship if contracts and retention are real."
+        ],
+        "key_risks": "The main concern is valuation discipline. At a $2.1M asking price, the business needs proven customer retention, limited owner dependence, and a clean team handoff to justify the premium.",
+        "financing_view": [
+          "Bestimate: $2.1M",
+          "Seller financing preference: likely available",
+          "Preliminary view: debt service can work better here than on many higher-priced MSPs because SDE is strong, but returns still improve materially if seller carry offsets the premium valuation."
+        ],
+        "missing_facts": [
+          "Revenue split across managed services, cybersecurity, and any project work",
+          "Contract term, renewal mechanics, and churn history across the 20 active clients",
+          "Owner role in sales, escalation support, and strategic account management",
+          "Depth, tenure, and certifications of the 3 full-time employees",
+          "Exact seller carry, transition support, and post-close non-compete terms"
+        ],
+        "preliminary_verdict": [
+          "Verdict: pursue",
+          "Underwriting score: 91/100",
+          "Reviewed: 2026-06-23"
+        ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$2,100,000",
+        "equity_injection": "$210,000",
+        "loan_amount": "$1,890,000",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$24,716",
+        "annual_debt_service": "$296,587",
+        "cash_flow_coverage": "1.74x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
       "name": "Consulting, Bookkeeping and Accounting Firm",
       "industry": "Service Businesses",
       "location": "St. Charles, IL",
@@ -654,6 +726,442 @@
         "monthly_payment": "$3,758",
         "annual_debt_service": "$45,091",
         "cash_flow_coverage": "4.10x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "IT Services Business",
+      "industry": "Service Businesses",
+      "location": "Scottsdale, AZ",
+      "years_in_business": "11",
+      "revenue": "$760K",
+      "cash_flow": "$197K",
+      "bestimate": "$1.925M",
+      "website": "",
+      "listing_source_name": "BusinessBroker.net",
+      "listing_source_url": "https://www.businessbroker.net/business-for-sale/it-services-business-scottsdale-arizona/1009531.aspx",
+      "source_query": "scottsdale managed it recurring revenue staffed",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Strong",
+      "retiring_owner_status": "Unverified",
+      "status": "qualified",
+      "priority": "high",
+      "underwriting_status": "complete",
+      "underwriting_score": "84",
+      "research_status": "complete",
+      "research_score": "82",
+      "last_reviewed": "2026-06-24",
+      "notes": "Full-service IT solutions and managed services franchise resale with long-term contracts, managed IT, cloud, cybersecurity, backup/recovery, 6 employees, and no customer concentration risk disclosed. Reason for selling is not retirement, so motivation needs follow-up.",
+      "underwriting_details": {},
+      "sba_loan_view": {
+        "purchase_price_estimate": "$1,925,000",
+        "equity_injection": "$192,500",
+        "loan_amount": "$1,732,500",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$22,656",
+        "annual_debt_service": "$271,871",
+        "cash_flow_coverage": "0.72x",
+        "feasibility": "stretched"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "High-Margin Multi-service Tax Firm In Utah",
+      "industry": "Service Businesses",
+      "location": "Utah & Uintah Counties, UT",
+      "years_in_business": "6",
+      "revenue": "$853K",
+      "cash_flow": "$357K",
+      "bestimate": "$1.475M",
+      "website": "",
+      "listing_source_name": "BusinessesForSale",
+      "listing_source_url": "https://us.businessesforsale.com/us/high-margin-multi-service-tax-firm-in-utah.aspx",
+      "source_query": "utah tax accounting payroll retirement recurring",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Strong",
+      "retiring_owner_status": "Verified",
+      "status": "qualified",
+      "priority": "high",
+      "underwriting_status": "complete",
+      "underwriting_score": "90",
+      "research_status": "complete",
+      "research_score": "88",
+      "last_reviewed": "2026-06-24",
+      "notes": "Two-location tax and financial services firm with tax prep, payroll, bookkeeping, QuickBooks consulting, advisory, and insurance lines. Listing cites 8% annual growth, 3 FT employees plus 2 contractors, committed key team members, and retirement / new ventures as the reason for selling.",
+      "underwriting_details": {},
+      "sba_loan_view": {
+        "purchase_price_estimate": "$1,475,000",
+        "equity_injection": "$147,500",
+        "loan_amount": "$1,327,500",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$17,360",
+        "annual_debt_service": "$208,317",
+        "cash_flow_coverage": "1.71x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "CPA Firm Chicago",
+      "industry": "Service Businesses",
+      "location": "Chicago, IL",
+      "years_in_business": "0",
+      "revenue": "$380K",
+      "cash_flow": "$239K",
+      "bestimate": "$750K",
+      "website": "",
+      "listing_source_name": "BusinessesForSale",
+      "listing_source_url": "https://us.businessesforsale.com/us/cpa-firm-chicago.aspx",
+      "source_query": "chicago cpa retirement",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Strong",
+      "retiring_owner_status": "Verified",
+      "status": "qualified",
+      "priority": "high",
+      "underwriting_status": "complete",
+      "underwriting_score": "88",
+      "research_status": "complete",
+      "research_score": "86",
+      "last_reviewed": "2026-06-23",
+      "notes": "Near-west-suburb CPA firm with more than 40% monthly recurring work, a 62% profit margin, staff expected to remain, and seller retirement explicitly disclosed. Years in business were not stated in the listing.",
+      "underwriting_details": {
+        "overview": [
+          "Industry: Service Businesses",
+          "Location: Chicago, IL",
+          "Years in business: not disclosed",
+          "Revenue: $380K",
+          "Cash flow: $239K",
+          "Current status: qualified",
+          "Priority: high"
+        ],
+        "why_it_fits": "The listing checks several of the best buy-box boxes at once: recurring monthly work, staff expected to remain, healthy margins, and explicit retirement motivation from the seller.",
+        "revenue_and_cash_flow_view": [
+          "Recurring revenue signal: Strong",
+          "Team signal: Strong",
+          "Seller retirement signal: Verified",
+          "Initial take: more than 40% monthly recurring work and a 62% profit margin suggest a small but potentially high-quality, repeat-client accounting practice rather than a pure annual tax shop."
+        ],
+        "key_risks": "The missing operating-history disclosure is the main gap, along with the need to confirm how much technical review and client retention still sit directly with the owner.",
+        "financing_view": [
+          "Bestimate: $750K",
+          "Seller financing preference: unknown",
+          "Preliminary view: financing looks plausible because cash flow is solid, but the implied multiple is not cheap enough to skip diligence on client mix and transition coverage."
+        ],
+        "missing_facts": [
+          "Exact years in business and historical revenue stability",
+          "Headcount, tenure, and role clarity for the staff expected to remain",
+          "Revenue mix across monthly bookkeeping, tax, payroll, and advisory work",
+          "Top-client concentration and retention history after prior staff changes",
+          "Seller transition scope and willingness to provide carry or consulting support"
+        ],
+        "preliminary_verdict": [
+          "Verdict: pursue",
+          "Underwriting score: 88/100",
+          "Reviewed: 2026-06-23"
+        ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$750,000",
+        "equity_injection": "$75,000",
+        "loan_amount": "$675,000",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$8,827",
+        "annual_debt_service": "$105,924",
+        "cash_flow_coverage": "2.26x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "$700,000+ Revenue CPA Firm In Union County",
+      "industry": "Service Businesses",
+      "location": "Union County, NJ",
+      "years_in_business": "0",
+      "revenue": "$700K",
+      "cash_flow": "$449K",
+      "bestimate": "$750K",
+      "website": "",
+      "listing_source_name": "BusinessesForSale",
+      "listing_source_url": "https://us.businessesforsale.com/us/700-000-revenue-cpa-firm-in-union-county.aspx",
+      "source_query": "union county cpa retirement",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Moderate",
+      "retiring_owner_status": "Verified",
+      "status": "qualified",
+      "priority": "high",
+      "underwriting_status": "complete",
+      "underwriting_score": "89",
+      "research_status": "complete",
+      "research_score": "87",
+      "last_reviewed": "2026-06-23",
+      "notes": "Paperless CPA firm with $448,502 cash flow, portal-driven client workflow, owner retirement, and both the seller and a senior CPA willing to stay on per diem for transition support. Staff are expected to transition but are not yet aware of the sale.",
+      "underwriting_details": {
+        "overview": [
+          "Industry: Service Businesses",
+          "Location: Union County, NJ",
+          "Years in business: not disclosed",
+          "Revenue: $700K",
+          "Cash flow: $449K",
+          "Current status: qualified",
+          "Priority: high"
+        ],
+        "why_it_fits": "This is a very attractive accounting target on paper because it combines strong cash flow, a paperless operating model, retirement motivation, and unusually explicit transition support from both the seller and a senior CPA.",
+        "revenue_and_cash_flow_view": [
+          "Recurring revenue signal: Strong",
+          "Team signal: Moderate",
+          "Seller retirement signal: Verified",
+          "Initial take: portal-based workflows and a paperless setup improve transferability, while the disclosed per-diem transition support lowers handoff risk if client relationships are broader than the owner alone."
+        ],
+        "key_risks": "Staff are expected to transition but are not yet aware of the sale, so retention execution risk is still real. Client concentration and seller-centric relationships also need pressure testing.",
+        "financing_view": [
+          "Bestimate: $750K",
+          "Seller financing preference: likely available",
+          "Preliminary view: at roughly 1.7x cash flow, this screens as one of the more financeable accounting listings if the transition support is documented and the staff bench holds."
+        ],
+        "missing_facts": [
+          "Staff roster, tenure, compensation structure, and who owns key client relationships",
+          "Revenue mix across tax, bookkeeping, payroll, and advisory lines",
+          "Top-client concentration and churn history",
+          "How much work the senior CPA can absorb during transition and for how long",
+          "Exact seller carry terms, if any, plus non-solicit and non-compete protections"
+        ],
+        "preliminary_verdict": [
+          "Verdict: pursue",
+          "Underwriting score: 89/100",
+          "Reviewed: 2026-06-23"
+        ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$750,000",
+        "equity_injection": "$75,000",
+        "loan_amount": "$675,000",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$8,827",
+        "annual_debt_service": "$105,924",
+        "cash_flow_coverage": "4.24x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "$400,000 Revenue NE Hartford CT Area CPA Practice",
+      "industry": "Service Businesses",
+      "location": "Hartford, CT",
+      "years_in_business": "0",
+      "revenue": "$400K",
+      "cash_flow": "$216K",
+      "bestimate": "$375K",
+      "website": "",
+      "listing_source_name": "BusinessesForSale",
+      "listing_source_url": "https://us.businessesforsale.com/us/400-000-revenue-ne-hartford-ct-area-cpa-practice.aspx",
+      "source_query": "hartford cpa retirement",
+      "recurring_revenue_signal": "Moderate",
+      "team_signal": "Moderate",
+      "retiring_owner_status": "Verified",
+      "status": "qualified",
+      "priority": "high",
+      "underwriting_status": "complete",
+      "underwriting_score": "84",
+      "research_status": "complete",
+      "research_score": "83",
+      "last_reviewed": "2026-06-23",
+      "notes": "Tax, bookkeeping, and consulting practice with 15-25% annual growth, 2 staff expected to transition, and seller retirement explicitly disclosed. Recurring quality is decent but still more tax-season weighted than the strongest bookkeeping-heavy targets.",
+      "underwriting_details": {
+        "overview": [
+          "Industry: Service Businesses",
+          "Location: Hartford, CT",
+          "Years in business: not disclosed",
+          "Revenue: $400K",
+          "Cash flow: $216K",
+          "Current status: qualified",
+          "Priority: high"
+        ],
+        "why_it_fits": "Retirement-driven CPA practices with bookkeeping alongside tax remain attractive because they often offer a more recurring revenue base than pure seasonal tax shops, and this listing includes two staff expected to transition.",
+        "revenue_and_cash_flow_view": [
+          "Recurring revenue signal: Moderate",
+          "Team signal: Moderate",
+          "Seller retirement signal: Verified",
+          "Initial take: economics are solid and recent 15-25% annual growth is encouraging, but the practice still looks somewhat more tax-season weighted than the best bookkeeping-heavy targets."
+        ],
+        "key_risks": "The main risk is service-line mix. If too much of the revenue is concentrated in annual tax prep or owner-led consulting, retention and financing quality will be weaker than the headline SDE suggests.",
+        "financing_view": [
+          "Bestimate: $375K",
+          "Seller financing preference: unknown",
+          "Preliminary view: valuation is reasonable relative to cash flow, so this looks financeable if the recurring component and staff continuity are confirmed."
+        ],
+        "missing_facts": [
+          "Revenue split across tax, bookkeeping, consulting, and any payroll work",
+          "Exact years in business and stability of the recent growth trend",
+          "Roles and tenure of the 2 transitioning staff members",
+          "Top-client concentration and percentage of revenue tied to tax season",
+          "Seller transition terms, including any willingness to stay through one filing cycle"
+        ],
+        "preliminary_verdict": [
+          "Verdict: pursue",
+          "Underwriting score: 84/100",
+          "Reviewed: 2026-06-23"
+        ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$375,000",
+        "equity_injection": "$37,500",
+        "loan_amount": "$337,500",
+        "interest_rate": "11.25%",
+        "term_years": 10,
+        "monthly_payment": "$4,697",
+        "annual_debt_service": "$56,363",
+        "cash_flow_coverage": "3.83x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "$600,000 Eastern Bucks County PA Tax Accounting Firm",
+      "industry": "Service Businesses",
+      "location": "Bucks County, PA",
+      "years_in_business": "0",
+      "revenue": "$600K",
+      "cash_flow": "$370K",
+      "bestimate": "$775K",
+      "website": "",
+      "listing_source_name": "BusinessesForSale",
+      "listing_source_url": "https://us.businessesforsale.com/us/600-000-eastern-bucks-county-pa-tax-accounting-firm.aspx",
+      "source_query": "bucks county tax accounting payroll retirement",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Unknown",
+      "retiring_owner_status": "Verified",
+      "status": "qualified",
+      "priority": "high",
+      "underwriting_status": "complete",
+      "underwriting_score": "87",
+      "research_status": "complete",
+      "research_score": "84",
+      "last_reviewed": "2026-06-23",
+      "notes": "Tax, accounting, and payroll practice with $369,731 cash flow, paperless operations, portal-based document handling, and explicit retirement motivation. Team depth was not disclosed, so the operating-model strength still needs a deeper confirmatory pass.",
+      "underwriting_details": {
+        "overview": [
+          "Industry: Service Businesses",
+          "Location: Bucks County, PA",
+          "Years in business: not disclosed",
+          "Revenue: $600K",
+          "Cash flow: $370K",
+          "Current status: qualified",
+          "Priority: high"
+        ],
+        "why_it_fits": "This is a strong accounting candidate because the service mix includes tax, accounting, and payroll, the operations are already paperless and portal-based, and the seller's retirement motivation is explicit.",
+        "revenue_and_cash_flow_view": [
+          "Recurring revenue signal: Strong",
+          "Team signal: Unknown",
+          "Seller retirement signal: Verified",
+          "Initial take: payroll plus accounting work should create a stickier recurring base than tax-only practices, and the cash flow level is comfortably inside the target range."
+        ],
+        "key_risks": "Team depth is still the biggest gap. Without clear staffing detail, it is hard to tell whether this is a transferable practice platform or simply a profitable owner-led book.",
+        "financing_view": [
+          "Bestimate: $775K",
+          "Seller financing preference: unknown",
+          "Preliminary view: at just over 2.0x cash flow, this can still pencil for SBA financing, but lender comfort will depend on proving staff continuity and repeat-revenue durability."
+        ],
+        "missing_facts": [
+          "Staff count, tenure, and who currently handles payroll, accounting, and tax delivery",
+          "Revenue mix by recurring monthly work versus seasonal tax engagements",
+          "Client concentration, average client size, and retention history",
+          "Exact years in business and history of revenue consistency",
+          "Seller transition support, carry potential, and workflow documentation transfer"
+        ],
+        "preliminary_verdict": [
+          "Verdict: pursue",
+          "Underwriting score: 87/100",
+          "Reviewed: 2026-06-23"
+        ]
+      },
+      "sba_loan_view": {
+        "purchase_price_estimate": "$775,000",
+        "equity_injection": "$77,500",
+        "loan_amount": "$697,500",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$9,121",
+        "annual_debt_service": "$109,455",
+        "cash_flow_coverage": "3.38x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "Highly Profitable Bookkeeping & Accounting Firm",
+      "industry": "Service Businesses",
+      "location": "Maricopa County, AZ",
+      "years_in_business": "25",
+      "revenue": "$1.42M",
+      "cash_flow": "$709K",
+      "bestimate": "$2.95M",
+      "website": "",
+      "listing_source_name": "BizBuySell",
+      "listing_source_url": "https://www.bizbuysell.com/business-opportunity/highly-profitable-bookkeeping-and-accounting-firm/2460186/",
+      "source_query": "virtual bookkeeping accounting recurring retirement semi absentee",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Strong",
+      "retiring_owner_status": "Verified",
+      "status": "screening",
+      "priority": "medium",
+      "underwriting_status": "complete",
+      "underwriting_score": "86",
+      "research_status": "complete",
+      "research_score": "85",
+      "last_reviewed": "2026-06-24",
+      "notes": "100% remote bookkeeping/accounting firm established in 2001 with stable monthly recurring revenue, 14 full-time employees, an accounting manager running core operations, SBA pre-approval, and retirement motivation. Cash flow and asking price are above preferred sweet spot, so it needs valuation and financing discipline before qualifying.",
+      "underwriting_details": {},
+      "sba_loan_view": {
+        "purchase_price_estimate": "$2,950,000",
+        "equity_injection": "$295,000",
+        "loan_amount": "$2,655,000",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$34,719",
+        "annual_debt_service": "$416,634",
+        "cash_flow_coverage": "1.70x",
+        "feasibility": "looks serviceable"
+      },
+      "is_confirmed_for_sale": true
+    },
+    {
+      "name": "B2B Commercial Lock Distribution & E-Commerce - 70% Recurring Revenue - LA County",
+      "industry": "Distribution",
+      "location": "Los Angeles County, CA",
+      "years_in_business": "20",
+      "revenue": "$939K",
+      "cash_flow": "$212K",
+      "bestimate": "$560K",
+      "website": "",
+      "listing_source_name": "BusinessBroker.net",
+      "listing_source_url": "https://www.businessbroker.net/business-for-sale/b2b-commercial-lock-distribution-and-e-commerce-70-recurring-revenue-la-county-california/1008989.aspx",
+      "source_query": "commercial lock distribution recurring retirement",
+      "recurring_revenue_signal": "Strong",
+      "team_signal": "Weak",
+      "retiring_owner_status": "Verified",
+      "status": "screening",
+      "priority": "medium",
+      "underwriting_status": "complete",
+      "underwriting_score": "76",
+      "research_status": "complete",
+      "research_score": "74",
+      "last_reviewed": "2026-06-24",
+      "notes": "Commercial-grade electronic lock and access-control distributor serving hospitality and commercial real estate. Listing cites over 20 years of operating history, approximately 70% repeat-customer revenue, retirement motivation, and $212K weighted SDE; only 1 employee plus $400K inventory on top of price keeps it in screening.",
+      "underwriting_details": {},
+      "sba_loan_view": {
+        "purchase_price_estimate": "$560,000",
+        "equity_injection": "$56,000",
+        "loan_amount": "$504,000",
+        "interest_rate": "9.75%",
+        "term_years": 10,
+        "monthly_payment": "$6,591",
+        "annual_debt_service": "$79,090",
+        "cash_flow_coverage": "2.68x",
         "feasibility": "looks serviceable"
       },
       "is_confirmed_for_sale": true
